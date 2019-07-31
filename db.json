@@ -1,16 +1,3310 @@
 {
-  "posts":[
+  "recipes": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id": 1,
+      "ingredients": "{1} kg Bratenfleisch\nRosmarin\netwas Weißwein\n{30} dag Schwammerl\n{1} Zwiebel\nButter \nPetersilie",
+      "additional-ingredients": "Salz",
+      "info": "Beilagen: Kümmelkartoffeln oder hausgemachte Spätzle und Salat.",
+      "beverage": "keine",
+      "instruction": "Fleisch mit Salz, Rosmarin und eventuell einer Knoblauchzehe einreiben und in Butter rasch anbraten, mit etwas Weißwein aufgießen und im Rohr fertigbraten. Inzwischen den Zwiebel schneiden und glasig werden lassen, die geschnittenen Schwammerl dazugeben und durchrösten, dann die Schwammerl würzen und mit Obers verfeinern. Die fertige Sauce über den Braten geben und gefällig anrichten.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "Ausgezeichnet auch in Schnitzelform"
+        }
+      ],
+      "name": "Styria-Beef-Braten in Schwammerlsoße",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "ingredients": "{4} dünngeklopfte Schnitzel\n{15} dag Topfen\nKräuter\nMehl\nEi\nFett zum Herausbacken",
+      "additional-ingredients": "Salz",
+      "info": "Als Beilage geeignet: Erbensreis oder Pommes Frites, Salat.",
+      "beverage": "keine",
+      "instruction": "Topfen mit Ei,Salz und Kräutern gut verrühren und auf die Schnitzel geben, zusammenklappen, in Mehl und Ei tauchen und in heißem Fett herausbacken. Mit Zitronenscheiben belegen und mit Preiselbeeren anrichten.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Gefüllte Topfenschnitzel",
+      "categoryId": 2
+    },
+    {
+      "id": 3,
+      "ingredients": "Styria-beef\nZwiebel\nMayoran\nSuppe\nNudeln oder Spiralen",
+      "additional-ingredients": "Salz\nPfeffer\nÖl",
+      "info": "",
+      "beverage": "keine",
+      "instruction": "Fleisch kleinwürfelig schneiden, Öl erhitzen, feingehackte Zwiebel anrösten. Fleisch mit Salz, Pfeffer und Mayoran würzen, mit Suppe aufgießen. Nudeln oder Spiralen in Salzwasser kochen. Wenn das Fleisch gar ist, wird es mit den Nudeln oder Spiralen vermengt und serviert.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Styria-Beef-Nudelfleisch",
+      "categoryId": 1
+    },
+    {
+      "id": 4,
+      "ingredients": "{1} kleine Stange Lauch\n{30} dag Risottoreis\n{2} EL Butter\n{5} EL Weißwein\n{2} Briefchen Safranfäden\n{1} l klare Suppe(etvl. SWürfel)\n{8} Kirschparadeiser\n{15} dag Shrimps\n{3} dag Parmesan (frisch gerieben)",
+      "additional-ingredients": "Salz, Pfeffer, Olivenöl, evtl. Parmesan",
+      "info": "Zutaten für {4} Portionen, Zubereitungszeit ca {35} Minuten",
+      "beverage": "Safran ist, wie die meisen \"exotischen\" Gewürze, kein besonderer Weinfreund; die besten Erfolge erzielt man mit einem Gewürztraminer aus  der Südoststeiermark oder noch besser aus dem Elsaß.",
+      "instruction": "Vom Lauch Wurzeln und grüne Blattenden wegschneiden. Lauchstangen der Länge nach aufschneiden, gut waschen und in {1/2} cm dicke Ringe schneiden. \nLauch in {1} EL von der Butter anschwitzen. Den Reis zugeben und mitrösten, bis er glasig, aber noch hell ist.\n-\nWein zugießen und die Flüssigkeit einkochen. Safran zugeben und Reis mit ca {1/8} l der Suppe aufgießen, salzen und pfeffern.\n-\nReis auf kleiner Flamme unter ständigen Rühren köcheln -- dabei immer wieder Suppe zugießen und verkochen, bis die angegebene Suppenmenge aufgebraucht ist. (Die Zubereitung des Risottos dauert ca {20} Minuten.)\n-\nParadeiser je nach Größe halbieren oder vierteln. Shrimps in {2} EL Olivenöl anschwitzen, Paradeiser zugeben und kurz mitbraten.\n-\nRisotto mit Parmesan, Paradeisern, Shrimps und restlicher Butter vermischen, zudecken und ca. {1} Minuten am Herdrand ziehen lassen.\nRisotto in vorgewärmten Tellern anrichten und eventuell mit grob geraspeltem Parmesan bestreuen.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Safran-Risotto mit Lauch Shrimps und Paradeisern",
+      "categoryId": 3
+    },
+    {
+      "id": 5,
+      "ingredients": "{1 / 4} kg Schweinsfilet\n    {1} Zwiebel\n    {10} dag Champignons\n    {1} EL Paprikapulver\n    {1 / 8} l Bier\n    {1 / 8} l Bratensaft\n    {1 / 8} l Schlagobers\n    {1} Zehe Knoblauch",
+      "additional-ingredients": "Salz, Pfeffer, Kümmel,Öl , Butter",
+      "info": "Zutaten für {2} Portionen, Zubereitung ca {1 / 2} Stunde",
+      "beverage": "Weil mit Bier zuberbeitet ist der Gerstensaft auch der beste Begleiter zu\n    diesem Gericht. Wer sich partout nicht damit anfreunden kann, dem sei ein\n    leichter unkomplizierter Rot- oder auch ein etwas kräftigerer Weißwein\n    empfohlen.",
+      "instruction": "Zwiebel schälen und fein hacken. Champignons putzen, kurz waschen und in\n    gleich große Stücke schneiden. - Fleisch in ca. {2} cm große Würfel\n    schneiden, mit Salz und Pfeffer würzen und in wenig Öl rundum braten (dauert\n    ca {1.5} Minuten). Fleisch aus der Pfanne heben und beiseitestellen. - Im\n    Bratrückstand je {1} EL Butter und Öl erhitzen, Zwiebel und Champignons\n    darin anschwitzen. Paprikapulver einrühren, kurz mitrösten, mit Bier und\n    Bratensaft ablöschen und aufkochen. Obers zugießen, die Sauce cremig\n    einkochen und mit Salz, Pfeffer, Kümmel und zerdrückten Knoblauch würzen. -\n    Fleisch in der Sauce kurz erwärmen. Geschnetzeltes mit Erdäpfel-Röstinchen\n    (Fertigprodukt) anrichten.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Schweinsgeschnetzeltes",
+      "categoryId": 2
+    },
+    {
+      "id": 6,
+      "ingredients": "{8} Scheiben Kalbsfilet (insgesamt ca. {60} dag)\n    {2} kleine Paradeiser\n    {10} dag Fisolen\n    {1 / 2} kleine Zwiebel\n    {1 / 8} l Weißwein\n    {1 / 8} l klare Suppe (evtl Würfel)\n    {1} EL Basilikum (fein geschnitten)",
+      "additional-ingredients": "Salz,Pfeffer, Öl, Butter, Zitronensaft",
+      "info": "Zutaten für {4} Portionen, Zubereitung ca {1 / 2} Stunde",
+      "beverage": "Ein kräftiger Weißwein mit ausreichend -- nicht zu viel und nicht zu wenig\n    -- Säure ist hier der richtige Partner; wer die kräftige Note bevorzugt,\n    wird sich an einem Neuburger von der Thermenlinie oder einem Weißburgunder\n    aus dem Burgenland erfreuen. Riesling Smaragd wäre die elegantere Variante.",
+      "instruction": "Strüuke aus den Paradeisern schneiden. Paradeiser ca. {10} Sekunden in\n    kochendes Wasser legen, kalt abschrecken und die Haut abziehen. Paradeiser\n    vierteln, entkernen und Fruchtfleisch kleinwürfelig schneiden. - Fisolen\n    putzen, in Salzwasser weichkochen, abseihen, abschrecken und abtropfen\n    lassen. Fisolen in ca. {1}\n    cm breite Stücke schneiden. Zwiebel schälen und kleinwürfelig schneiden. -\n    Steaks salzen, pfeffern und mit wenig Öl bestreichen. Grillpfanne erhitzen\n    und Steaks beidseitig grillen (dauert insgesamt ca {3} Minuten). - Parallel\n    dazu Zwiebel mit Wein und Suppe aufkochen, Flüssigkeit bei starker Hitze um\n    ein Drittel einkochen. Sauce durch Einrühren von {2} EL Butter binden (nicht\n    mehr kochen). - Paradeiser, Fisolen und geschnittenes Basilikum in die Sauce\n    mischen. Die Sauce mit Salz, Pfeffer und wenig Zitronensaft pikant\n    abschmecken. Die Kalbsteaks mit der Basilikum-Sauce anrichten. Dazu serviert\n    man am besten Brateräpfel.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Kalbssteaks mit Basilikum-Sauce",
+      "categoryId": 4
+    },
+    {
+      "id": 7,
+      "ingredients": "{4} Schweinssteaks (a ca. {15} dag)\n    {1 / 4} Mozzarella\n    {3} kleine Paradeiser\n    {1} Bund Basilikum\n    {1 / 4} klare Suppe\n    {1} Becher Creme fraiche",
+      "additional-ingredients": "Salz, Pfeffer, Zitronensaft, Öl",
+      "info": "Zutaten für {4} Portionen, Zubereitung ca. {1 / 2} Stunde",
+      "beverage": "Dazu lässt sich daurchaus ein leichter Rotwein -- womöglich schon vom neuen\n    Jahr -- trinken, schließlich will man Muttern nicht schon zu Mittag\n    betrunken machen. Sorten wie Zweigelt oder Blauer Portugieser, aber auch ein\n    weicher Merlot empfehlen sich besonders.",
+      "instruction": "Mozzarella auf einem Sieb gut abtropfen lassen. Paradeiser und Mozzarella in\n    ca. {1} cm dicke Scheiben schneiden. Basilikumblätter abzupfen. -\n    Schweinssteaks ein wenig flachdrücken, mit Salz und Pfeffer würzen. In einer\n    Pfanne wenig Öl erhitzen. Steaks darin beidseitig braten (dauert insgesamt\n    ca. {3} Minuten). - Backrohr auf Grillstellung vorheizen. Steaks auf ein\n    Backblech legen, mit Paradeiser- und Mozarellascheiben belegen. -\n    Bratrückstand mit Suppe ablöschen, Creme fraiche einrühren und die Sauce\n    aufkochen. Basilikumblätter in feine Streifen schneiden, unter die Sauce\n    mischen und mit einem Stabmixer aufschlagen. Sauce mit Salz, Pfeffer und\n    Zitronensaft würzen. - Die belegten Steaks im vorgeheizten Rohr (oberste\n    Schiene) goldgelb überbacken, aus dem Rohr nehmen und mit der Sauce und dem\n    Lauchgemüse (siehe Rezepte) anrichten.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "Vorallem Sauce mit Zitrone ist interessant. (witzig)"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Schweinssteaks mit Mozzarella und Paradeisern",
+      "categoryId": 2
+    },
+    {
+      "id": 8,
+      "ingredients": "{8} Putenschniterln (a ca. {7} dag)\n    {2} Paradeiser\n    {1 / 2} kleine Zwiebel\n    {1 / 8} l Weißwein\n    {1 / 4} l Bratensaft\n    {1} Becher Creme fraiche ({15} dag)\n    {2} EL Kapern\n    {1} EL Petersilie",
+      "additional-ingredients": "Salz, Pfeffer, Öl, Butter oder Margarine, Kaüern",
+      "info": "Zutaten für {4} Portionen, Zubereitung ca. {1 / 2} Stunde",
+      "beverage": "Für ein Truthahnschnitzerl einen passenden Wein zu finden, ist kein Problem:\n    schwimmt es freilich in einer Kapernsauce, so wird die Sache schon\n    schwieriger. Ein hochreifer Sauvignon blanc, aber vor allem ein\n    südländischer Rose sollten freilich dem intensiven Geschmack dieser\n    \"Grünzwerge\" Paroli bieten können.",
+      "instruction": "Zwiebel schälen und kleinwürfelig schneiden. Strünke aus dem Paradeisern\n    schneiden. Paradeiser ca. {10} Sekunden in kochendes Wasser legen, kalt\n    abschrecken, die Haut abziehen. Paradeiser vierteln und entkernen, die\n    Viertel der Länge nach halbieren. - Die Schnitzerln inzwischen in\n    Frischhaltefolie legen und behutsam klopfen. Schnitzerln salzen, pfeffern\n    und in wenig Öl beidseitig braten. Schnitzerln aus der Pfanne heben und\n    beiseitestellen. - Im Bratrückstand {1} TL Butter oder Margarine erhitzen,\n    Zwiebel darin anschwitzen, mit Wein ablöschen und aufkochen. Bratensaft und\n    Creme fraiche einrühren und die Sauce cremig einkochen, Kapern und gehackte\n    Petersilie zugeben. - Sauce mit einem Stabmixer fein pürieren, mit Salz und\n    Pfeffer würzen, Schnitzerln einlegen und kurz darin ziehen lassen.\n    Schnitzerln mit Sauce, Paradeisern und mit Kapern bestreut anrichten.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Truthahnschnitzerln mit Kapernsauce",
+      "categoryId": 5
+    },
+    {
+      "id": 9,
+      "ingredients": "",
+      "additional-ingredients": "",
+      "info": "",
+      "beverage": "keine",
+      "instruction": "{1 / 4} kg schmale Bandnudeln (Tagliatelle) in Salzwasser bissfest kochen,\n    abseihen, abschrecken und gut abtropfen lassen. - Ca. {10} dag Schwammerln\n    (Austernpilze, Champignons oder Shii-Take) putzen, kurz waschen, in Stücke\n    schneiden und in {1} EL Butter oder Margarine anschwitzen. Schwammerln mit\n    Salz, Pfeffer und {1} kleinen zerdrückten Knoblauchzehe würzen. - Nudeln mit\n    den Schwammerln und {1} gestr. TL frischem gehackten Thymian behutsam\n    mischen.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Schwammerl-Nudeln",
+      "categoryId": 6
+    },
+    {
+      "id": 10,
+      "ingredients": "{4} Schnitzel von der Hühnerbrust ( a {15} dag)\n    {2} kleine Stangen Lauch\n    {8} dünne Scheiben Rohschinken\n    {1 / 16} l Sherry\n    {1 / 8} l Suppe (evtl. Würfel)\n    {1 / 8} l Bratensaft (evtl. Tube)\n    {1} EL Kräuter (gehackt)",
+      "additional-ingredients": "Salz, Pfeffer, Salbei, Öl",
+      "info": "Zutaten für {4} Portionen, Zubereitungszeit ca. {50} Minuten",
+      "beverage": "keine",
+      "instruction": "Lauch von Wurzeln und dunkelgrünen Blattenden befreien und waschen. Lauch in\n    vier, ca. {8} cm lange Stücke schneiden, in Salzwasser bissfest kochen, in\n    kaltem Wasser abschrecken und gut abtropfen lassen.\n-\nJedes Lauchstück\n    straff mit zwei Schreiben Rohschinken umwickeln.\n-\nHühnerschnitzel zwischen\n    Frischhaltefolie legen, behutsam klopfen und mit Salz, Pfeffer und Salbei\n    würzen.\n-\nAn den unteren Rand jedes Schnitzels ein Lauchstück legen.\n    Schnitzel darüber einrollen, mit Spagat binden und nochmals mit Salz,\n    Pfeffer und Salbei würzen.\n-\nWenig Öl erhitzen, die Rouladen darin rundum\n    anbraten, mit Sherry ablöschen und mit Suppe aufgießen. Topf zudecken und\n    Fleisch auf kleiner Flamme {15} Minuten dünsten.\n-\nDie Hühnerrouladen aus\n    dem Topf heben. Bratensaft in den Topf gießen, aufkochen und zum Schluss\n    Kräuter untermischen.\n-\nDie Hühnerrouladen schräg in nicht zu dünne Scheiben\n    schneiden und mit der Sauce anrichten. Als Beilagen serviert man am besten\n    Gemüse und Nudeln.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "Sieht aufgeschnitten ( vor dem Servieren) lecker aus."
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Rouladen von der Hühnerbrust mit Kräutersauce",
+      "categoryId": 7
+    },
+    {
+      "id": 11,
+      "ingredients": "{4} Scheiben Vollkornbrot\n    {1} kleiner roter Paprika\n    {1} Bund Petersilie\n    {8} dag Kürbiskerne\n    {8} Eier",
+      "additional-ingredients": "Salz, Pfeffer, Butter, Kernöl",
+      "info": "Zutaten für {4} Portionen, Zubereitungszeit ca. {20} Minuten",
+      "beverage": "keine",
+      "instruction": "Brot dünn mit Butter bestreichen. Eier in eine Schüssel schlagen, salzen,\n    pfeffern und mit einer Gabel wenig verquirlen. - Paprika putzen, waschen\n    uund kleinwürfelig schneiden. Kürbiskerne grob hacken. Petersilblättchen\n    fein hacken. - Paprika und Kürbiskerne in {1} EL Butter anschwitzen. Eier\n    und einen Schuss Kürbiskernöl zugießen und kräftig verrühren. Eier cremig\n    fest werden lassen und auf den Broten anrichten. Brote vor dem Servieren mit\n    Blattsalaten garnieren und mit gehackter Petersilie bestreuen.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Kürbiskern-Eierspeise",
+      "categoryId": 8
+    },
+    {
+      "id": 12,
+      "ingredients": "{4} Kalbsschnitzel (a ca. {14} dag)\n    {2} Eier\n    {30} dag Mandeln (gerieben)\n    {1 / 8} l klare Suppe\n    {1 / 4} l Schlagobers\n    {2} EL Preiselbeerkompott Saft von {1 / 2} Zitrone",
+      "additional-ingredients": "Salz, Pfeffer, Majoran, Öl, Mehl",
+      "info": "Zutaten für {4} Portionen, Zubereitung ca. {1 / 2} Stunde",
+      "beverage": "Zur feinen Speise ein edler Wein: Wachauer Riesling wird diesem Gericht als\n    frischer und eleganter Begleiter zur Seite stehen.",
+      "instruction": "Suppe aufkochen, Obers einrühren und auf kleiner Flamme ca. {5} Minuten\n    köcheln. - Preiselbeerkompott zugeben, die Sauce mit einem Stabmixer\n    pürieren und mit Salz, Pfeffer und Zitronensaft würzen. - Eier mit einer\n    Gabel verschlagen. Schnitzel zwischen Frischaltefolie legen, behutsam\n    klopfen und mit Salz, Pfeffer und wenig Majoran würzen. Schnitzel in Mehl\n    wenden, gut abschütteln, durch das Ei ziehen und in den Mandeln wenden. - In\n    einer Pfanne zweifingerhoch Öl mäßig erhitzen. Schnitzel darin beidseitig\n    goldgelb backen, aus der Pfanne heben und auf mehreren Lagen Küchenpapier\n    gut abtropfen lassen. Schnitzel mit der Sauce auf Tellern anrichten.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Kalbsschnitzel mit Mandelpanier",
+      "categoryId": 4
+    },
+    {
+      "id": 13,
+      "ingredients": "",
+      "additional-ingredients": "",
+      "info": "",
+      "beverage": "keine",
+      "instruction": "{1} kleine Zwiebel schälen, kleinwürfelig schneiden und gemeinsam mit {2}{\" \"}\n    Tassen Reis in {1} EL Butter anschwitzen.\n    {3} Tassen Wasser zugießen, salzen und aufkochen. Topf zudecken und Reis auf\n    kleiner Flamma ca {1 / 2} Stunde dünsten. - Ca. {15} dag TK-Erbsen in {1} EL\n    aufgeschäumter Butter schwenken, mit Salz und Pfeffer würzen und unter den\n    fertigen Reis mischen.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Erbsen-Reis",
+      "categoryId": 3
+    },
+    {
+      "id": 14,
+      "ingredients": "",
+      "additional-ingredients": "",
+      "info": "Zutaten für {4} Portionen",
+      "beverage": "keine",
+      "instruction": "{20} dag Stangensellerie putzen, schälen und kleinwürfelig schneiden.\n    Selleriegrün grob hacken und beiseitestellen.\n    {2} Tassen wilden (gemischten) Reis und Sellerie separat in reichlich\n    Salzwasser kochen, abseihen, abschrecken und gut abtropfen lassen. -\n    Sellerie in {1} EL Butter anschwitzen, Reis zugeben und vorsichtig\n    durchmischen. Das Selleriegrün unterheben, Reis mit Salz und Pfeffer\n    abschmecken.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Passt zu Lamm."
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Wilder Reis mit Stangensellerie",
+      "categoryId": 3
+    },
+    {
+      "id": 15,
+      "ingredients": "{500} g Spaghetii\n{1} l Orangensaft\n{1} Prise Safranfäden\n{3} Orangen, geschält und filetiert\n{3} Schlotten, geschält und in feine Würfel geschnitten\n{1} Bund Basilikum, Blätter abgezupft\n{8} EL Olivenöl\n{8} Scheiben Parmaschinken",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "Zutaten für {4} personen",
+      "beverage": "keine",
+      "instruction": "Die Spaghetti in {1} l Salzwasser, Orangensaft und Safran al dente kochen. Die Schalotten in Olivenöl anschwitzen, die Orangenfilets zugeben und mit Salz und Pfeffer abschmecken, Basilikum beifügen.\nDie Spaghetti zu den Schalotten geben und durch schwenken. Aus dem Parmaschinken Rosen formen (in dem man zwei Stücke aneinander legt und zur Rose aufdreht).\n-\nDie Spaghetti auf vorgewärmte Teller anrichten und mit den Rosen ausdekorieren.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "kalorienarm"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "aus d. DVD;schmeckt nicht nach Orangen"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Orangen-Safran-Spaghetti mit Parmaschinken",
+      "categoryId": 9
+    },
+    {
+      "id": 16,
+      "ingredients": "",
+      "additional-ingredients": "",
+      "info": "",
+      "beverage": "keine",
+      "instruction": "{50} g Spaghetti in Salzwasser kochen. {100} g Hähnchenbrustfilet waschen,\n    trocken tupfen, würfeln. Salzen, pfeffern. In einer Pfanne ohne Fett {2} -{\" \"}\n    {3} Min. anbraten, herausnehmen. {150} g Paprikastreifen anbraten. {100} ml\n    Brühe zugießen und ca. {6} Min. garen. {50} g abgetropfte Maiskörner (aus\n    der Dose) zugeben, erhitzen. Abschmecken. Fleisch zufügen. Spaghetti\n    zugeben.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "kalorienarm"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "aus d. DVD Bella Martha; ohne Öl; keine Sauce"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Spaghetti mit Hühnerbrust",
+      "categoryId": 7
+    },
+    {
+      "id": 17,
+      "ingredients": "{2} Paprika (rot und grün)\n    {1 / 2} kg Topfen (20% Fett)\n    {1 / 8} l Sauerrahm\n    {1} l klare Suppe(evtl. Würfel)\n    {5} dag Butter\n    {30} dag Polenta (Maisgrieß)\n    {4} EL Kräuter (gehackt)",
+      "additional-ingredients": "Salz, Pfeffer, Oregano, Butter",
+      "info": "Zutaten für {4} Portionen, Zubereitungszeit ca. {1} Std.",
+      "beverage": "Dazu empfehlen wir einen mittekräftigen Welschriesling aus dem Burgenland\n    oder einen Grünen Veltliner aus dem Weinviertel. Beide Weine können dem\n    Gericht mit ihrer Säure und Würzigkeit einen gewissen Pfiff geben.",
+      "instruction": "Auflaufform (Inhalt {1.5} l) mit Butter ausstreichen. Backrohr auf {200}\n    °C vorheizen. - Paprika halbieren, von Strünken und Kernen befreien und in\n    kleine Stücke schneiden. - Sauerrahm mit Topfen und den Paprikastücken gut\n    verrühren, mit Salz und Pfefer würzen. - Suppe aufkochen, Butter zugeben,\n    Polenta unter ständigen Rühren einrieseln lassen und ca. {5} Minuten\n    köcheln. Masse mit Salz, Pfeffer und Oregano würzen. Kräuter untermischen. -\n    Polenta- und Topfenmassen in {1}\n    -cm-Schichten abwechselnd in die Form streichen -- mit Polentamasse\n    abschließen. - Auflauf im vorgeheizten Rohr (mittlere Schiene / Gitterrost)\n    ca. {25} Minuten backen. - Backrohr auf Grillstellung schalten und Auflauf\n    goldgelb überkrusten. Auflauf vor dem Servieren eventuell mit gehackter\n    Petersilie bestreuen. Als Beilage passt Salat.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Polenta-Auflauf",
+      "categoryId": 3
+    },
+    {
+      "id": 18,
+      "ingredients": "{3 / 4} kg Rindsfiletspitzen\n    {1} kleine Zwiebel ({10} dag)\n    {1 / 4}l Sauerrahm\n    {1 / 4}l Bratensaft (evtl. Tube)\n    {2} EL grüne Pfefferkörner (eingelegt)\n    {2} EL Petersilie (gehackt)",
+      "additional-ingredients": "Salz, Pfeffer, Öl",
+      "info": "Zutaten für {5} Portionen, Zubereitunszeit ca {1 / 2} Stunde",
+      "beverage": "Kräftige Rotweine machen dazu Freude; Blaufränkisch oder Cabernet Sauvignon\n    aus dem Burgenland sind gute Tipps, Rotweine aus der Neuen Welt, sind\n    freilich ebenfalls nicht zu verachten.",
+      "instruction": "Pfefferkörner auf einem Sieb gut abtropfen lassen. Die Zwiebel schälen und\n    kleinwürfelig schneiden. - Rindsfilet in Scheiben, dann in ca. {1}\n    cm breite Streifen schneiden. Ca. {7} EL Öl erhitzen, das Fleisch darin\n    rundum rasch anbraten und in einen Topf geben. - Im Bratrückstand Zwiebel\n    anschwitzen, Sauerrahm und Bratensaft zugießen, verrühren und ca. {1} Minute\n    köcheln. Die Sauce durch ein Sieb passieren, Pfefferkörner einrühren. -\n    Fleisch zugeben und in der Sauce erwärmen (nicht mehr kochen).\n    Geschnetzeltes auf Tellern anrichten, mit Petersilie bestreuen und am besten\n    mit Teigwaren als Beilage servieren.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Rindsfiletspitzen mit Pfefferrahm",
+      "categoryId": 1
+    },
+    {
+      "id": 19,
+      "ingredients": "",
+      "additional-ingredients": "",
+      "info": "",
+      "beverage": "Kräftiger Weißwein oder leichter Rotwein halten sich hier als Begleiter wohl\n    die Waage -- da könnte ein schönes Glas Bier schließlich das Zünglein sein.",
+      "instruction": "Ca {3 / 4} kg gekochte, speckige Erdäpfel schälen und grob raspeln, mit\n    Salz, Pfeffer und Kümmel würzen. In einer großen Pfanne ca. {5} EL Öl und{\" \"}\n    {1} EL Butter erhitzen, Erdäpfel darin gleichmäßig verteilen und goldbraun\n    anrösten. - Rösti auf einen Teller oder Deckel gleiten lassen, wenden,\n    fertigbraten und in Stücke teilen.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Erdäpfel-Rösti",
+      "categoryId": 10
+    },
+    {
+      "id": 20,
+      "ingredients": "{40} dag Spaghetti\n    {1 / 2} Zwiebel\n    {2} Zehen Knoblauch\n    {20} dag Zucchini\n    {20} dag Räucherlachs (dünn geschnitten)\n    {3} EL Olivenöl\n    {1} TL glattes Mehl\n    {1 / 4} l Milch\n    {(0, 1)} l Schlagobers\n    {2} EL Weißwein",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "Zutaten für {4} Portionen, Zubereitung ca. {35} Minuten",
+      "beverage": "Der Weißwein, den man dazu trinkt, darf zwar ruhig ein wenig kräftiger,\n    sollte aber auf jeden Fall eher mild, sprich säurearm sein, da Räucherlachs\n    sonst zu einem metallischen Geschmack tendiert. Pinot grigio, Sauvignon\n    blanc oder Chardonnay aus Friaul sind feine Begleiter, die das Gericht\n    geschmacklich abrunden.",
+      "instruction": "Zwiebel und Knoblauch schälen und kleinwürfelig schneiden. Zuccini putzen\n    und in ca. {1 / 2} cm große Würfel, Lachs in schmale Streifen schneiden.\n    Spaghetti al dente (bissfest) kochen. Parallel dazu Öl erhitzen, Zucchini\n    darin anbraten, Lachs unterrühren. Lachs und Zucchini aus der Pfanne heben\n    und zugedeckt warmstellen. - Im Bratrückstand Zwiebel und Knblauch\n    anschwitzen, Mehl einrühren und kurz mitrösten. Milch, Obers und Wein\n    zugießen. Sauce unter ständigem Rühren ca. {11 / 2} Minuten köcheln, mit\n    Salz und Pfeffer würzen. - Nudeln abseihen, kurz mit heißem Wasser spülen,\n    mit der Sauce vermischen und mit Zucchini- und Lachsstücken bestreut\n    servieren.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Spaghetti mit Räucherlachs und Zucchini",
+      "categoryId": 9
+    },
+    {
+      "id": 21,
+      "ingredients": "{300} g Pappardelle (breite Bandnudeln)\n    {100} g rucola\n    {100} g Räucherlachs (dünn geschnitten)\n    {1} kl. Knoblauchzehe\n    {11 / 2} EL Butter\n    {200} ml klare Suppe\n    {250} g Creme fraiche\n    {1} TL frischer Kren (gerissen) Zitronensaft",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "{4} Portionen, Zubereitung ca. {20} Minuten",
+      "beverage": "PAPPARDELLE: Räucherlachs verträgt sich am besten mit milden, aber durchaus\n    krätigten Weißweinen. Chardonnay, Pinot gris oder auch Sauvignon blanc aus\n    Friaul, Südtirol, der Steiermark oder dem Burgenland sind dabei sicher nicht\n    fehl am Platze. TORTELLINI: Feinwürzige Weißweine wie ein Pinot blanc oder\n    Grüner Veltliner haben sich als Begleiter zu Spargelgerichten bewärt und\n    werden auch hier schön harmonieren.",
+      "instruction": "Rucola in grobe Stücke, Lachs in schmale Streifen schneiden. Knoblauch\n    schälen und klein schneiden. - Pappardelle in Salzwasser bissfest kochen\n    (siehe Packungshinweis). - Inzwischen Knoblauch in Butter anschwitzen, Suppe\n    und Creme fraiche zugeben und ca. {1} Minuten kochen. Die Hälfte vom Rucola\n    einrühren, mit einem Stabmixer aufschlagen. Übrigen Rucola, Lachs und Kren\n    untermischen. Die Sauce mit Salz, Pfeffer und Zitronensaft abschmecken. -\n    Pappardelle abseihen, kurz abtropfen lassen und mit der Sauce vermischen.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "sieht optisch haubenmäßig aus; der Krenn gibt dem Gericht die besondere Note"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Aus Billa-Gusto"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Pappardelle mit Rucola-Lachs-Sauce",
+      "categoryId": 6
+    },
+    {
+      "id": 22,
+      "ingredients": "{500} g Tortellini mit Fleischfülle\n    {120} g Cocktailparadeiser\n    {150} g grüne Spargelspitzen\n    {1} EL Butter\n    {250} ml klare Suppe\n    {150} g Creme fraiche Schale von {1 / 2} Zitrone (unbehandelt)\n    {2} EL gehackte Kräuter ( Kresse, Schnittlauch, Petersilie)\n    {1} TL Zitronensaft",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "{4} Vorspeisen-Portionen, Zubereitung ca. {20} Minuten",
+      "beverage": "keine",
+      "instruction": "Tortellini kochen (siehe Packungshinweis) und in einem Sieb abtropfen\n    lassen. - Inzwischen Paradeiser vierteln. Spargel in {1} cm dicke Schreiben\n    schneiden, in Butter anschwitzen und mit Suppe ablöschen. Creme fraiche\n    einrühren, Sauce {2} Minuten köcheln. Kräuter, abgeriebene Zitronenschale\n    und die Paradeiser einrühren, Sauce salzen, pfeffern, mit Zitronensaft\n    verfeinern und kurz ziehen lassen. - Tortellini mit der Sauce vermischen und\n    anrichten.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Aus Gusto Perfekt;Tortellini m. Fleischfülle eim Keiser-Franz-Josefplatz\n    kaufen (wäre noch perfekter)"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Tortellini mit Spargel-Kräutersauce",
+      "categoryId": 6
+    },
+    {
+      "id": 23,
+      "ingredients": "{500} g Spaghetti N.5\n    {4} Zucchini\n    {1} Zwiebel\n    {1} roten Paprika\n    {1} Kohlblatt\n    {2} Eier\n    {100} g Parmesan",
+      "additional-ingredients": "Olivenöl, Muskatnuss, Salz",
+      "info": "Die Zutaten sind für {4} - {6} Personen.",
+      "beverage": "keine",
+      "instruction": "Das Gemüse waschen und klein schneiden. Zwiebel in einer Pfanne in etwas Öl\n    andünsten, dann die Paprika, das Kohlblatt und am Schluss die Zucchini\n    dazugeben. - Die Mischung mit Salz abwürzen und bei mittlerer Temperatur\n    ungeführ {15} Minuten garen lassen. - In der Zwischenzeit die Spaghetti al\n    dente kochen. - Die Eier mit etwas Salz und Muskatnuss verquirlen. Die\n    fertigen Spaghetti vorsichtig unter das Gemüse heben. Etwas Öl und die\n    verquirlten Eier gießen und noch mal für einige Minuten erhitzen. Der\n    gerieben Parmesan wird getrennt serviert.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Spaghetti Primavera",
+      "categoryId": 9
+    },
+    {
+      "id": 24,
+      "ingredients": "{250} g Tagliatelle (oder Penne)\n    {200} g braunce Champignons\n    {200} g Lauch\n    {600} g Tomaten\n    {1} EL Creme fraiche\n    {1} kleiner Bund Basilikum\n    {250} g Rindsfilet\n    {3} TL OlivenÖl",
+      "additional-ingredients": "Salz, Pfeffer, Oregano",
+      "info": "{4} Portionen, Zubereitung ca. {25} Minuten",
+      "beverage": "Leichte, fruchtige Rotweine, die etwas kühler als gewohnt serviert werden\n    können, geben diesem Gericht Schliff und Pfiff. In Frage kommen: Merlot aus\n    Friaul, Vernatsch aus Südtirol, Zweigelt, Blauer Portugieser und Blauburger\n    aus Österreich.",
+      "instruction": "Champignons vierteln. Lauch in dünne Scheiben schneiden. Tomaten überbrühen,\n    schälen und in Stücke schneiden. - Tomaten in einen kleinen Topf geben, mit\n    Salz, Pfeffer und Oregano würzen und offen ca. {10} Minuten dick einkochen.\n    Tomaten mit dem Stabmixer fein pürieren. Creme fraiche einrühren, salzen und\n    pfeffern. - Basilikum fein schneiden. Rindsfilet in dünne Streifen\n    schneiden. - Teigwaren in Salzwasser bissfest kochen.Parallel dazu im Wok\n    oder in einer beschichteten Pfanne {1} TL Öl erhitzen. Lauch darin unter\n    Rühren {3} Minuten braten. Champignons zugeben, unter Rühren weitere {3}{\" \"}\n    Munuten braten. Gemüse salzen, pfeffern und aus dem Wok nehmen. - Im Wok\n    übriges Öl erhitzen, Fleisch darin unter Rühren braten, salzen und pfeffern.\n    Teigwaren abseihen, abtropfen lassen, mit Tomatensauce, Lauch, Pilzen,\n    Fleisch und Basilikum vermischen und anrichten.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "aus Gusto; Tomaten a.d.Dose kaufen"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Tagliatelle mit Rindsfilet und rosa Cremesauce",
+      "categoryId": 6
+    },
+    {
+      "id": 25,
+      "ingredients": "{300} g Teigwaren (Orecchiette)\n    {1} kg Brokkoli (600 g geputzt)\n    {4} Paradeiser\n    {2} Bund Jungzwiebeln (kleinere dünne Stangen)\n    {60} ml Olivenöl\n    {1} Knoblauchzehe\n    {80} g Parmesan (gehobelt)\n    {1} kl. Bund Petersilie (grob gehackt)",
+      "additional-ingredients": "Salz, Pfeffer, Cayennepfeffer, Olivenöl",
+      "info": "{4} Portionen, Zubereitung ca. {30} Minuten",
+      "beverage": "Ein leichter, frischer Weißwein ist dazu der passenden Begleiter. In der\n    italienischen Abteilung werden Sie ganz sicher fündig -- bei Pinot grigio,\n    Orvieto Classico oder Soave.",
+      "instruction": "Brokkoli putzen und in kleine Röschen teilen. Strünke aus den Paradeisern\n    schneiden. Paradeiser einige Sekunden in kochendes Wasser legen, kalt\n    abschrecken und die Haut abziehen. Paradeiser vierteln und entkernen.\n    Jungzwiebeln putzen, den grünen Teil sowie den Wurzelansatz wegschneiden. -\n    Brokkoli und Jungzwiebeln nacheinander in Salzwasser kurz überkochen,\n    herausheben, in kaltem Wasser abschrecken und abtropfen lassen. Ca {60} ml\n    vom Kochwasser reservieren. - Teigwaren in Salzwasser mit einem Schuss\n    Olivenöl bissfest kochen, abseihen und abtropfen lassen. Parallel dazu in\n    einer großen Pfanne Jungzwiebeln in Olivenöl anschwitzen, Brokkoli zugeben\n    und kurz mitrösten. Gemüse mit Salz, Pfeffer, etwas Cayenne und zerdrücktem\n    Knoblauch würzen und langsam einige Minuten braten. Paradeiser zugeben, mit\n    wenig Gemüsekochwasser untergießen. Teigwaren zugeben und gut durchrühren. -\n    Gemüse etwas ziehen lassen, abschmecken, mit Parmesan und Petersilie\n    bestreut servieren.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "sehr gutes Gericht ohne Fleisch; schmeckt fast nach Fleisch"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Paradeiser aus d. Packung oder Dose"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Orecchiette mit Brokkoli und Paradeisern",
+      "categoryId": 6
+    },
+    {
+      "id": 26,
+      "ingredients": "{500} g Garganelli Ferrari Eiernudeln\n    {650} g gelber Kürbis\n    {160} g Speck \"La Fattoria\"\n    {80} g Butter\n    {5} EL Olivenöl extra vergine\n    {1} große Stange Porree Parmigiano Reggiano\n    {3} Amaretti-Kekes (Mandelmakronen) Salz Pfeffer",
+      "additional-ingredients": "",
+      "info": "Zutaten für {4}\n    -6 Personen; Zubereitungszeit {20} Minuten",
+      "beverage": "keine",
+      "instruction": "Die Butter in einem Topf zergehen lassen und das Olivenöl dazugeben. Darin\n    den fein geschnittenen Porree, den geschälten und kleinwüfelig geschnittenen\n    Kürbis sowie den kleinwürfelig geschnittenen Speck anbraten. Die Amaretti\n    fein zerbrösselt darüber streuen und alles bei mäßiger Hitze fertig dünsten\n    (bei Bedarf etwas Wasser dazugeben). - In der Zwischenzeit die Garganelli in\n    reichlich Salzwasser \"al dente\" kochen. - Den Kürbis nach Bedarf mit Salz\n    und Pfeffer abschmecken und gemeinsam mit den Parmigiano Reggiano vorsichtig\n    unter die fertigen Garganelli rühren. Mit Petersilie und frischen\n    Kürbiskernen servieren.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning",
+          "text": "Amaretti-Keks gibt es nur bei Piu; diese speziellen Nudeln auch"
+        }
+      ],
+      "name": "Garganelli mit Kürbis und Speck",
+      "categoryId": 6
+    },
+    {
+      "id": 27,
+      "ingredients": "{8} große, frisch gekochte Pellkartoffeln\n    {2} EL Butter\n    {150}g Landana",
+      "additional-ingredients": "nach Belieben Pfeffer, Kümmel, Paprika oder Basilikum",
+      "info": "",
+      "beverage": "keine",
+      "instruction": "Die Kartoffeln ungepellt halbieren. Dicht nebeneinander mit der\n    Schnittfläche nach oben auf ein gut gebuttertes Blech setze. MIt geriebenem\n    Landana ca. {10} Minuten bei {250} Grad überbacken. Die fertigen Kartoffeln\n    mit Pfeffer, Kümmel, Paprika oder Basilikum bestreuen.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "einfach; zum Abnehmen."
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning",
+          "text": "Die Kartoffeln wirklich dicht nebeneinander auf das Blech setzen. Der\n    geriebene Käse fällt zu leicht neben die Kartoffeln und backt am Blech fest"
+        }
+      ],
+      "name": "Käsekartoffeln vom Blech",
+      "categoryId": 10
+    },
+    {
+      "id": 28,
+      "ingredients": "{4} Steaks vom Rindsfilet (a {160} g)\n{1} EL Öl\n{4} Schreiben Toastbrot\nJe {1} EL frische Petersilie, Koriander und Kerbel ( geschnitten)\n{100} g Stangensellerie\n{350} g Knollensellerie\n{1} EL Butter\n{70} ml Wasser\n{150} ml Schlagobers\n{2} EL Sauerrahm\n{1} TL Apfelessig",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "{4} Portionen, Zubereitung ca. {30} Minuten",
+      "beverage": "Das Rindssteak verlangt nach kräftigen Rotweinen wie einer Cuvee mit Cabernet Sauvignon oder einem Shiraz.Mit den süßsauren Aromen werden Weine aus der Neuen Welt am besten harmonieren.",
+      "instruction": "Für die Kräuterkruste Toastbrot in Stücke schneiden und in einem elektrischen Zerkleinerer hacken. Kräuter zugeben und die Mischung so lange weitermahlen, bis feine grüne Brösel entstehen.\n-\nStangensellerie schälen, in dünne Scheiben schneiden und in Salzwasser kurz überkochen. Abseihen, abschrecken und abtropfen lassen. Knollensellerie schälen, in Stifte schneiden und in Bitter hell anschwitzen mit Wasser ablöschen, salzen und zugedeckt ca. {5} Minuten dünsten. Gemüse mit einem Siebschöpfer aus dem Fond heben. Fond mit Obers verrühren, cremig einkochen und beiseite stellen.\n-\nBackrohr auf Grillstellung vorheizen. Fleisch salzen, pfeffern und bei mittlerer Hitze in Öl beidseitig braten ({6} - {8} Minuten), aus der Pfanne nehmen und auf ein Backblech legen. Steaks mit den Kräuterbröseln bedecken. Brösel leicht andrücken und die Steaks im Rohr (mittlere Schiene) ca. {5} Minuten überbacken.\n-\nSauce erhitzen, Selleriegemüse untermischen und aufkochen, mit Sauerrahm und Apfelessig verfeinern.\nSteaks mit der Sauce anrichten, mit Stangensellerie-Stücken garnieren.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning",
+          "text": "Knollensellerie ist eine halbe Knolle"
+        }
+      ],
+      "name": "Rindssteak mit Kräuterkruste auf Selleriegemüse",
+      "categoryId": 1
+    },
+    {
+      "id": 29,
+      "ingredients": "{4} Hühnerfilets (a ca. {150} g mit Haut)\n    {60} g kalte Butterstücke\n    {125} ml Weißwein\n    {1} Knoblauchzehe\n    {2} Jungzwiebeln\n    {6} schwarze Oliven (entkernt)\n    {200} g Eierschwarmmerln\n    {1} EL Öl Saft von {1 / 2} Zitrone\n    {1} EL Petersilie (fein geschnitten)\n    {8} Scheiben Prosciutto ( dünn geschnitten)\n    {4} Rosmarinzweige",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "{4} Portionen, Zubereitung ca. {50} Minuten.",
+      "beverage": "keine",
+      "instruction": "Knoblauch schälen. Jungzwiebeln putzen und waschen. Knoblauch, Jungzwiebeln\n    und Oliven klein würfelig schneiden. Schwammerln putzen, waschen und\n    trockentupfen, große Exemplare halbieren. - In einer Pfanne Öl erhitzen,\n    Schwammerln darin rasch anbraten. Zwiebel und Knoblauch zugeben und kurz\n    mitbraten. Schwammerln mit Salz, Pfeffer und Zitronensaft würzen. Petersilie\n    und Oliven einrühren. Mischung abkühlen lassen und grob hacken. - Backrohr\n    auf {200} °C vorheizen. Hühnerfilets von der Mitte zur dicken Seite hin\n    flach einschneiden, aufklappen und behutsam klopfen; das Fleisch sollte ca.{\" \"}\n    {1}\n    cm dick sein. Fleisch mit der Hauptseite nach unten auflegen, mit Salz und\n    Pfeffer würzen. Jedes Fleischstück mit {2} Scheiben Prosciutto belegen und\n    zu zwei Dritteln mit der Schwammerlmasse bestreichen. Fleisch über die\n    Füllung einrollen, Röllchen mit Rosmarinzweigen (oder mit Zahnstochern)\n    fixieren. - Röllchen in eine Auflaufform legen, mit der Hälfte der\n    Butterstücke belegen und mit Wein untergießen. Röllchen ca. {25} Minuten im\n    Rohr garen. - Hühnerröllchen aus dem Rohr nehmen, in Alufolie gewickelt warm\n    halten. Bratfond in einen Topf gießen, kurz erhitzen und durch Einrühren der\n    restlichen Butterstücke binden: Hühnerröllchen halbieren, mit dem Bratenfond\n    und Ricotta-Erdäpfeln auf vorgewärmten Tellern anrichten.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "equisierter Geschmack"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "f. festl. Essen geeignet"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Gefüllte Hühnerfilets mit Schwammerln und Prosciutto",
+      "categoryId": 7
+    },
+    {
+      "id": 30,
+      "ingredients": "{250} g Soja.Spaghetti\n    {700} g Lauch\n    {200} ml Schlagobers\n    {60}g Mandelblättchen\n    {100} ml Gemüsesuppe\n    {100} g Gorgonzola\n    {1} EL Olivenöl",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "{4} Portionen, Zubereitung ca. {40} Minuten",
+      "beverage": "keine",
+      "instruction": "Lauch längs halbieren, waschen und in feine Streifen schnieden. Mit dem\n    Mixstab Schlagobers, Gemüsesuppe und {50} g der Mandelblättchen zu einer\n    feinen Creme pürieren. Restliche Mandelblättchen in einer trockenen Pfanne\n    unter Rühren goldgelb rösten. Gorgonzola in Stücke schneiden. - Spaghetti in\n    Salzwasser bissfest kochen (ca. {8} Minuten). Inzwischen Sauce zubereiten:\n    Öl im Wok erhitzen. Lauch zugeben, salzen und unter Rühren {3} Minuten\n    braten. Mandelsauce unterrühren und den Lauch zugedeckt bei milder Hitze in\n    ca. {5} Minuten weich dünsten: - Gorgonzola untermischen und unter Rühren\n    erhitzen, bis er geschmolzen ist. Soße mit Salz abschmecken: - Die\n    abgetropften Spaghetti mit der Sauce vermischen und mit Pfeffer und\n    gerösteten Mandeln bestreut servieren.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "ausgezeichnet wenn es mit Vollwertspaghetti gekocht wird"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Spaghetti mit Lauch und Mandel-Gorgonzola-Sauce",
+      "categoryId": 9
+    },
+    {
+      "id": 31,
+      "ingredients": "{400} g Fusilli lunghi\n    {2} Dosen Thunfisch (a {150} g Abtropfgewicht)\n    {1} kleine Zwiebel\n    {2} Knoblauchzehen\n    {2} reife Tomaten\n    {1} Zitrone oder Limette (unbehandelt)\n    {1} Hand voll Rucola\n    {2} EL Olivenöl\n    {1} EL Sesam",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "{4} Portionen, Zubereitung {30} Minuten",
+      "beverage": "keine",
+      "instruction": "Thunfisch in einem Sieb abtropfen lassen. Zwiebel und Knoblauch schälen und\n    klein schneiden. Strünke aus den Tomaten schneiden. Tomaten ca. {10}{\" \"}\n    Sekunden in kochendes Wasser legen, kalt abschrecken und die Haut abziehen.\n    Tomaten vierteln, entkernen und in Streifen schneiden. - Von der Zitrone\n    oder Limette die Schal dünn abschälen und in feine Streifen schneiden.\n    Streifen in Wasser kurz überkochen, abseihen, abschrecken und abtropfen\n    lassen. Rucola putzen, waschen und abtropfen lassen. - In einer Pfanne\n    Olivenöl erhitzen, Zwiebel und Knoblauch darin hell anschwitzen. Thunfisch,\n    Tomaten, Zitronenschale und Sesam unterrühren, mit Salz und Pfeffer würzen.\n    - Parallel dazu Fusilli in reichlich Salzwasser bissfest kochen, abseihen\n    und abtropfen lassen. Nudeln mit der Thunfischmischung un den Rucolablättern\n    vermischen. Pasta in vorgewärmten Tellern anrichten und rasch servieren.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Zusätzliche Pfiff verleiht man diesem Gericht mit einer kleinen fein\n    gehackten Chilischote; unbedingt mit Parmesan servieren"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Fusilli mit Thunfisch und Sesam",
+      "categoryId": 6
+    },
+    {
+      "id": 32,
+      "ingredients": "{3} Knoblauchzehen\n{4} Zweige Rosmarin\n{350} g Hähnchenbrustfilet\n{1} Apfel (250 g; z.B. Boskop)\n{250} g Orecchiette\nSalz\n{3} EL Olivenöl\nfein geschnittene Schale von {1/2} unbehandelten Zitrone\nPfeffer\n{100} ml Apfelbrand (z.. Calvados)\n{250} ml Schlagsahne\n{80} g Ricotta",
+      "additional-ingredients": "",
+      "info": "Für {4} Portionen",
+      "beverage": "keine",
+      "instruction": "Ungepellten Knoblauch mit den Messer etwas andrücken. Von den Rosmarinzweigen die Spitzen abzupfen und beiseite legen. Hähnchenbrust in {11/2} cm große Würfel schneiden. Apfel schälen, achteln, entkernen und in {1} cm große Würfel schneiden.\n-\nDie Nudeln in Salzwasser nach Packungsanweisung bissfest kochen und in einem Sieb abtropfen lassen.\n-\nÖl in einer großen Pfanne erhitzen. Knoblauch, Rosmarinzweige, Hähnchenbrust, Apfelstücke und {2/3} der Zitronenschale  darin bei starker Hitze {2} Minuten dünsten und mit Salz und Pfeffer würzen. Knoblauch und Rosmarin entferne. Fleisch und Apfelwürfel herausnehmen. Bratensatz in der Pfanne mit Apfelbrand ablöschen und aud die Hälfte einkochen. Die Sahne auffüllen, salzen und pfeffern und offen {2}-3 Minuten bei mittlerer Hitze einkochen. Hähnchenbrust, Apfelwürfel und Orecchiette untermischen und {2}-3 Minuten darin erwärmen. Mit Ricotta, restlichter Zitronenschale und Rosmarinsputzen auf Tellern anrichten.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "sehr ausgefallen"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Aus: Essen und trinken; für Besuch geeignet; Ricotta im Ganzen gekauft und zerbröselt"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Orechiette mit Apfel und Hähnchenbrust",
+      "categoryId": 6
+    },
+    {
+      "id": 33,
+      "ingredients": "{1} kg küchenfertige, gut geputze Venusmuscheln (oder ersatzweise gemischte\n    Meeresfrüchte)\n    {1 / 4}l trockener Weißwein\n    {200} g Lachsfilet ( oder ersatzweise Tunfisch) Saft von {1 / 2} Zitrone\n    etwas Salz schwarzer Pfeffer\n    {1} große Karotte\n    {1} Zucchino\n    {2} mittelgroße Frühlingszwiebeln\n    {500} g Spaghetti\n    {5} EL Olivenöl\n    {1} TL fein gehackte Petersilie",
+      "additional-ingredients": "",
+      "info": "Zutaten für {4} Personen",
+      "beverage": "keine",
+      "instruction": "Die Muscheln wässern, bis das Wasser klar bleibt. Den Wein aufkochen, die\n    Muscheln hinzufügen und zugedeckt kochen, bis sich alle geöffnet haben. -\n    Die Muscheln in ein Sieb gießen und den Sud auffangen. Die Hälfte der\n    Muscheln aus den Schalen lösen. Das Lachsfilet waschen, trockentupfen und in\n    Streifen schneiden. Mit Zitronensaft, Salz und Pfeffer würzen. - Karotte\n    schälen, Zucchino waschen und in dünne Streifen schneiden. Zwiebeln putzen\n    und würfeln. - Die Spaghetti in kochendem Salzwasser bissfest garen. Öl in\n    einer Pfanne erhitzen und das Gemüse andünsten. Würzen und den Sud angießen.\n    Die Lachsstreifen unterziehen. - Die Spaghetti in ein Sieb geben, abtropfen\n    lassen und unter den Pfanneninhalt mischen. Nun die Muscheln und Petersilie\n    unterheben und auf Teller verteilen.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "sehr gut, obwohl sich keine Sauce ergibt"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Aus: Billa Rezepte; statt Lachsfilet vielleicht Räucherlachs"
+        },
+        {
+          "type": "warning",
+          "text": "Zuccini mit Schale schneiden"
+        }
+      ],
+      "name": "Gemüse-Lachs-Spaghetti mit Vongole",
+      "categoryId": 9
+    },
+    {
+      "id": 34,
+      "ingredients": "{4} Hühnerfilets\n    {1} Knoblauchzehe\n    {1} nussgroßes Stück Ingwer\n    {125} g Stärkemehl (maizena)\n    {125} g Mehl\n    {1} TL Sesamöl\n    {80} ml Weißwein\n    {125} ml Eiswasser\n    {2} TL Kurkuma\n    {16} kleine karotten (mit Grün)\n    {12} Stangen grüner Spargel\n    {1 / 2} Mangold\n    {30} g Butter\n    {2} EL helle Sojasauce\n    {1} Spritzer Sherryessig",
+      "additional-ingredients": "Salzm Pfeffer, Öl, Sojasauce, Sweet Chicken-Chilisauce",
+      "info": "{4} Portionen, Zubereitung ca. {30} Minuten",
+      "beverage": "Es gibt nicht viele Weißweine, die mit einem Mix aus Ingwer, Kurkuma,\n    Sesamöl und Co. zurechtkommen. Am ehesten schafft das noch ein\n    kräftig-vollmundiger Barrique-Chardonnay aus der Neuen Welt. Sicher nicht\n    die schlechtere Variante ist jedoch ein gutes chinesisches oder japanisches\n    Bier.",
+      "instruction": "Hühnerfilets in Streifen schneiden, mit gehacktem Knoblauch und geriebenem\n    Ingwer bestreuen und mind. {20} Minuten ziehen lassen. - Inzwischen die\n    Tempura-Zutaten glatt verrühren. Karotten schälen. Spargel in Stücke\n    schneiden. VOm Mangold die Blattrippen herausschneiden. Rippen schräg in\n    Scheiben schneiden und blanchieren. Blätter in Stücke schneiden. - Das\n    Gemüse nach Sorten getrennt (verschieden lange Garzeiten!) in gesalzenem\n    Wasser bissfest kochen und in Eiswasser abschrecken. - Hühnerstreifen\n    salzen, pfeffern, durch den Teig ziehen und in heißem Öl schwimmend backen.\n    Auf mehreren Lagen Küchenpapier abtropfen lassen und warm stellen. - Gemüse\n    in Butter schwenken. Sojasauce und Sherryessig zugeben, salzen und pfeffern.\n    Hühnerstreifen mit dem Gemüse, Sojasauce und Sweet Chicken-Chilisauce\n    servieren.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Kurkuma: Gewürz; Sesamöl: Reformhaus, hell\n    Sojasauce(Merkur-China-Abteilung); Ingwer: Gewürzsackerl"
+        },
+        {
+          "type": "warning",
+          "text": "Spargelzeit!"
+        }
+      ],
+      "name": "Hühnerfilets in Kurkuma-Tempura mit feinem Gemüse",
+      "categoryId": 7
+    },
+    {
+      "id": 35,
+      "ingredients": "{400} g Linguine (Nudeln)\n    {200} g Pancetta (Speck in Würfeln)\n    {3} Löffel geriebenen römischen Schafskäse Olivenöl Jungzwiebel gehackt\n    Schwarzen Pfeffer",
+      "additional-ingredients": "",
+      "info": "Die Zutaten sind für {4} - {6} Personen",
+      "beverage": "keine",
+      "instruction": "Linguine in leichtem Salzwasser kochen. Währendessen Pancetta (sind bereits\n    gut gesalzen) in Olivenöl anbraten, danach die gehackten Jungzwiebel\n    dazugeben und beides ca. {10} Minuten zusammen langsam weiter braten lassen.\n    Wenn die Soße und die Nudeln fertig sind, die Nudeln in die Pfanne zur Soße\n    geben und beides ca. {3} Minuten ziehen lassen. - Vor dem Servieren den\n    geriebenen Käse und schwarzen Pfeffer je nach Geschmack darüber streuen.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Linguine Fantasia",
+      "categoryId": 6
+    },
+    {
+      "id": 36,
+      "ingredients": "{200} g Langkornreis\n{1/2}l klare Brühe\n{1} rote Paprikaschote\n{100} g grüne Bohnen\n{1} kleine Zwiebel\n{1} Knoblauchzehe\n{200} g Putenbrust\nSalz und Pfeffer\netwas Olivenöl\n{1/2} TL Curry\n{1} Schuss Sojasauce",
+      "additional-ingredients": "",
+      "info": "Zutaten für {4} Personen",
+      "beverage": "keine",
+      "instruction": "Gib den Reis in einen Topf, gieße die Brühe hinzu und lasse das Ganze bei schwacher Hitze etwa {20} Minuten garen. Sobald die Flüssigkeit verdampt ist, ist der Reis fertig.\n-\nWasche, halbiere und entkerne die Paprikateschote und schneide sie dann in dünne Streifen. Schäle die Zwiebel und schneide sie in kleine Würfel. Die geschälte Knoblauchzehe schneidest du in dünne Scheiben. Von den gewaschenen Bohnen entfernst du die Enden und scheidest sie dann in kleine Stücke.\n-\nDie Putenbrust schneidest du in schmale Streifen, nachdem du sie kurz unter kaltem Wasser abgewaschen hast. Würze die Fleischstücke mit Salz und Pfeffer.\n-\nErhitze etwas Olivenöl in einer großen Pfanne. Sobals es heiß ist, gibst du die Zwiebelwürfel und die Knoblauchscheiben dazu. Nach zwei, drei Minuten fügst du das Putenfleisch hinzu und brätst es von allen Seiten an.\n-\nSobald das Gleisch gar ist, gibst du den gekochten Reis die Paprikastreifen und die Bohnen hinzu. Rühre die Mischung gut durch und würze sie mit Curry und Sojasauce.\n-\nNun schaltest due die Kochplatte auf mittlere Stufe und rühst ab und zu um, bis alles leicht angebraten ist.\n-\nJetzt brauchst du das Ganze nur noch abzuschmecken und schon kannst du die Reispfanne Phe Ter Son servieren.",
+      "comment": [
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Rezept aus Kinderkochbuch;  Alexander ist in dieser Form rote Paptrika; grüne Bohnen = Bohnschotten"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "text": "[Kommentar:Positiv]\nschmeckt nicht nur Kindern, sondern auch Erwachsenen.[Kommentar:Positiv]",
+      "name": "Reispfanne Phe Ter Son",
+      "categoryId": 3
+    },
+    {
+      "id": 37,
+      "ingredients": "{600} g Lachsfilets\n    {40} g Butter zum Anbraten\n    {200} g Fisolen\n    {100} g Kareespeck\n    {30} g Dille\n    {250} ml Champagner\n    {125} ml Schlagobers\n    {20} g Creme fraiche\n    {1} Tl Stärke (Maizena)",
+      "additional-ingredients": "Salz, Pfeffer aus der Mühle, Zitronensaft",
+      "info": "Zutaten für {4} Personen, Zubereitung ca {30} Min.",
+      "beverage": "Als passender Begleiter zum Weihnachtslachs eignet sich Wegenstein\n    Chardonnay Classic.",
+      "instruction": "Die Lachsfilets in einer breiten Pfanne mit reichlich Butter glassig\n    anbraten. - Für die Sauce Champagner mit dem Schlagobers auf kleiner Flamme\n    um etwa {1 / 3} reduzieren. Mit Salz, Pfeffer und einem Spritzer\n    Zitronensaft abschmecken. Creme fraiche unterziehen, eventuell mit Maizena\n    leicht binden. - Währenddessen für die Speckfisolen die Fisolen putzen und\n    in Salzwasser bissfest kochen, abseihen und mit Eiswasser abschrecken. Ein\n    paar Fisolen zusammenfassen und mit je einer Scheibe Karreespeck umwickeln.\n    In einer Pfanne mit Olivenöl knusprig braten. - Die Lachsschnitte anrichten\n    und mit der Champagnersauce umgießen, mit Fisolen und etwas Dille garnieren.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "schmeckt ausgefallen."
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Billa Rezept; eignet sich sehr gut auch für ein Weihnachtsessen"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Norwegiger Weihnachtslachs in Champagnersauce",
+      "categoryId": 11
+    },
+    {
+      "id": 38,
+      "ingredients": "{100} g schwarze Oliven\n    {3} reife, feste Tomaten\n    {1} Bund Petersilie\n    {1} BUnd Basilikum\n    {1} Stange Lauch geriebenen Schafskäse\n    {1} Glas trockener Weißwein Olivenöl\n    {500} g frische Trofie",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "Zutaten für {4} Personen, Zubereitungszeit: ca. {20} Min.",
+      "beverage": "keine",
+      "instruction": "Lauch und Petersilie grob hacken und in Olivenöl andünsten. Die geschälten,\n    in Stücke geschnittenen Tomaten sowie die entsteinten und in Scheiben\n    geschnittenen Oliven dazugeben. Salzen und mit dem Weißwein beträufeln. Bei\n    niedriger Hitze verdampfen lassen. - Die Trofie in Salzwasser kochen bis sie\n    bissfest sind. Anschließend die Trofie abseihen und in die Pfanne mit der\n    Sauce geben. Das ganze dann gut verrühren und einige Minuten erhitzen. Mit\n    feingehackten Basilikum und einer Handvoll geriebenen Schafskäse bestreut\n    servieren. Je nach Bedarf noch darüberpfeffern.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "schnelle Zubereitung;schmeckt typisch italienisch"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Tomatensauce mit Oliven",
+      "categoryId": 12
+    },
+    {
+      "id": 39,
+      "ingredients": "{4} - {6} Stück Hühnchen Brust und Bein je nach Belieben\n    {2} mittelgroße Zwiebeln Saft von {3} Zitronen\n    {3} - {4} EL Zucker\n    {300} g Pflaumen entkernt und vorgewaschen Salz, Pfeffer, Zimt, Kreuzkümmel\n    und Kurkuma\n    {2} EL Wasser\n    {1} EL ÖL",
+      "additional-ingredients": "",
+      "info": "Zutaten für {4} personen",
+      "beverage": "keine",
+      "instruction": "Hühnenteile waschen und enthäuten, zusammen mit den kleingeschnittenen\n    Zwiebeln in Öl anrösten. - Mit Salz, Pfeffer, Zimt, Kreuzkümmel und Kurkuma\n    abschmecken. - Ein wenig Wasser mit dem Saft der Zitronen und {3} - {4} EL\n    Zucker verrühren und in die Pfanne geben, kurz einkochen lassen. - Die\n    gewaschenen Pflaumen beifügen. - Das Ganze möglichst in einem\n    Schnellkochtopf auf mittlere Stufe kochen lassen bis es \"pfeift\". - Danach\n    die Hitze reduzieren und ca. {30} Minuten schmoren lassen.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Khorescht ist ein Eintopf, den man traditioneller Weise mit Basmatireis\n    serviert."
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Pflaumen-Huhn-Eintopf für Basmatireis",
+      "categoryId": 13
+    },
+    {
+      "id": 40,
+      "ingredients": "{300} g EVEREST Basmati-Reis\n    {200} g Linsen\n    {1} EL Öl\n    {1} gehackte Zwiebel\n    {80} g Butter\n    {1 / 2} TL Safran\n    {12} Datteln ohne Kerne\n    {100} g Rosinen",
+      "additional-ingredients": "",
+      "info": "Zutaten für {4} Personen",
+      "beverage": "keine",
+      "instruction": "Fleisch abspülen mit einem Küchtentuch trocken tupfen und in {8} Stücke\n    schneiden. Sellerie in {3} cm lange Stücke schneiden, Kräuter hacken. - In\n    einem Topf {2} EL Öl erhitzen und die Zwiebel darin bräunen. Das Fleisch\n    zugeben und bei starker Hitze etwa {7} Minuten anbraten. Mit Kurkuma,\n    Pfeffer und Salz würzen, {1} weitere Minute braten. Mit {2} Tassen Wasser\n    ablöschen und bei mittlerer Hitze zugedeckt {30} Minuten köcheln. - In einer\n    Pfanne {2} EL Öl erhitzen, Sellerie und Kräuter darin kurz anbraten. Zur\n    Fleischsauce geben, gut umrühren. Zitronensaft oder die mit einem spitzen\n    Messer von allen Seiten angeritzten Limonen beifügen und alles zugedeckt\n    weitere {45} Minuten köcheln. - Mit Zitronensaft, Pfeffer und Salz\n    abschmecken.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "schmeckt nicht süßlich, obviel süße Zutaten enthalten sind; exotisch"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Zum Linsenreis wird Hühnen bzw. Lammfleisch empfohlen"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Adass-Pollo (Linsenreis)",
+      "categoryId": 3
+    },
+    {
+      "id": 41,
+      "ingredients": "{250} g Penne\n    {1} kleine Jungzwiebel\n    {2} Knoblauchzehen\n    {40} g getrocknete Paradeiser (in Öl eingelegt)\n    {6} EL Olivenöl\n    {60} g Shrimps (essfertig)\n    {1} EL frisches Basilikum (gehackt)",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "{2} Portionen, Zubereitung ca. {30} Minuten",
+      "beverage": "Zu diesem \"Frühlingslüfterl\" von einem Gericht trinkt man am besten einen\n    leichten duftigen Weißwein wie einen Gelben Muskateller, Welschriesling oder\n    Sauvignon blanc aus der Steiermark, der zusätzlich einen frischen Touch\n    gibt.",
+      "instruction": "Penne in Salzwasser bissfest kochen. Inzwischen Jungzwiebel putzen, der\n    Länge nach halbieren und quer in {1 / 2} cm lange Stücke schneiden.\n    Knoblauch schälen und klein würfelig schneiden Paradeiser in kleine Stücke\n    schneiden. - Penne abseihen. Öl in einer Pfanne erhitzen. Jungzwiebel und\n    Knoblauch kurz anschwitzen, Shrimps, Paradeiser und Basilikum zugeben und\n    kurz mit erhitzen. Penne untermischen, mit Salz und Pfeffer würzen und in\n    vorgewärmten Tellern anrichten.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "einfache, schnelle Zubereitung"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "alles durchgerührt: einzelne Zutaten nicht erkennbar; Wildschrimps verwenden"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Penne mit Jungzwiebel und Shrimps",
+      "categoryId": 6
+    },
+    {
+      "id": 42,
+      "ingredients": "{300} g Putenbrust\n{1} kleine Zwiebel\n{1} Knoblauchzehe\n{1} kleine Dose geschälte Paradeiser (280 g)\n{4} TL Öl\n{11/2} TL Curry\n{100} g Mager-Joghurt\n{1} TL glattes Mehl\n{1} EL Sojasauce",
+      "additional-ingredients": "",
+      "info": "{2} Portionen, Zubereitung ca {25} Minuten",
+      "beverage": "keine",
+      "instruction": "Putenbrust trocken tupfen und in ca {1 1/2} cm große Würfel schneiden. Zwiebel und Knoblauch schälen und klein würfelig schneiden. Paradeiser in ein Sieb leeren und den Saft auffangen. Paradeiser grob in Stücke schneiden.\n-\nIn einer Pfanne (beschichtet oder aus Gusseisen) ca. die Hälfte vom Öl erhitzen. Zwiebel zugeben, bei mittlerer Hitze glasig anschwitzen. {1/2} TL vom Curry untermischen und kurz mitrösten, Paradeiserstücke, Paradeissaft und Knoblauch zugeben und die Mischung dick einkochen. Joghurt mit Mehl verquirlen und in die Sauce rühren. Sauce in ein schmales Gefäß gießen und mit einem Stabmixer fein pürieren.\n-\nPfanne säubern, {1} TL vom Öl darin erhitzen, die Hälfte der Fleischstücke darin unter Rühren braten. {1/2} TL vom Curry darüber streuen und mit der Hälfte der Sojasauce ablöschen.Fleischstücke unter öfterem Rühren so lange köcheln, bis die Flüssigkeit verdampft ist. Fleisch wischen zwei tiefen Tellern warm stellen.\n-\nPfanne säubern und das übrige Fleisch ebenso braten. Am Ende der Garzeit warm gestelltes Fleisch untermischen, Sauce zugießen und bei geringer Hitze kurz weich köcheln. Mit dem Gewürzreis anrichten.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "Sauce ist besonders gut; mild -- geschmackig mit Joghurt; schnelle Zubereitung;"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Zutaten: getrocknete Paradeiser in Öl (Dose) + Paradeisermark, auch mit Schweinsfischerl möglich"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Putengeschnetzeltes in Joghurt-Paradeissauce",
+      "categoryId": 5
+    },
+    {
+      "id": 43,
+      "ingredients": "{1/2} Zimtstange\n{1} Kardamomkapsel\n{1} Gewürznelke\n{120} g Basmatireis\nSalz",
+      "additional-ingredients": "",
+      "info": "{2} Portionen, Zubereitung ca. {20} Minuten",
+      "beverage": "keine",
+      "instruction": "Gewürze in ein Teefilter geben. {250} ml leicht gesalzendes Wasser mit den Gewürzen aufkochen. Gewaschenen und gut abgetropften Basmatireis einstreuen und aufkochen. Hitze reduzieren und den Reis bei schwacher Hitze zugedeckt ausquellen lassen (ca. {15} Minuten).",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Gewürzreis",
+      "categoryId": 3
+    },
+    {
+      "id": 44,
+      "ingredients": "{400} g Nudeln\n    {100} g Kirschtomaten\n    {100} g Oliven von Carli\n    {5} EL Natives Olivenöl Extra Carli\n    {1} Chilischote\n    {1} Knoblauchzehe\n    {40} g geriebener Parmesankäse\n    {1} EL gehackte Petersilie",
+      "additional-ingredients": "Salz",
+      "info": "Zutaten für {4} Personen",
+      "beverage": "keine",
+      "instruction": "Die Oliven entsteinen und klein schneiden. Die Tomaten waschen und vierteln.\n    Die Knoblauzehe fein hacken und mit der Chilischote im heißen Nativen\n    Olivenöl Extra anbraten. Die Oliven, die Tomaten und die Petersilie\n    hinzufügen und eine Minute lang anbraten. Die Nudeln in reichlich Salzwasser\n    al dente kochen, abgießen, kurz abtropfen lassen und in die Pfanne geben.\n    Den Parmesankäse darüber streuen und einige Sekunden in der Pfanne\n    sautieren. Sofort servieren.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning",
+          "text": "ohne Chilischote zu mild"
+        }
+      ],
+      "name": "Nudeln mit Oliven und Kirschtomaten",
+      "categoryId": 6
+    },
+    {
+      "id": 45,
+      "ingredients": "{8} Truthahnschnitzel (a ca. {60} g)\n    {1 / 2} kleine Zwiebel\n    {150} g Champignons\n    {4} kleine Essiggurken\n    {1} kl. roter Paprika\n    {1} TL Butter\n    {1} TL Paprikapulver\n    {300} ml Bratensaft",
+      "additional-ingredients": "Salz, Pfeffer, Öl",
+      "info": "{4} Portionen, Zubereitung ca. {35} Minuten",
+      "beverage": "Um die Dramaturgie des Menüs nicht zu stören, könnte man dazu einen leichten\n    Rotwein, wie einen Südtiroler St. Magdalener, einen Merlot aus Friaul oder\n    einen österreichischen Zweigelt trinken; kräftige Weißweine sind aber\n    genauso möglich.",
+      "instruction": "Zwiebel schälen und klein würfelig schneiden. Champignons putzen und in ca.{\" \"}\n    {1 / 2} cm dicke Scheiben, Gurkerln in Stifte schneiden. Paprika putzen und\n    in Stücke schneiden. - Fleisch zwischen Frischhaltefolie legen und behutsam\n    klopfen. Schnitzel salzen, pfeffern, in {4} EL Öl beidseitig anbraten, aus\n    der Pfanne nehmen und beiseite stellen. - Im Bratrückstand Butter erhitzen,\n    Zwiebel, Champignons und Paprika anschwitzen, Paprikapulver zugeben und kurz\n    mitrösten. Bratensaft zugießen und die Sauce aufkochen. Schnitzel einlegen,\n    zudecken und bei schwacher Hitze ca. {12} Minuten dünsten, Gurkerln zugeben.\n    Schnitzel mit der Sauce und den Beilagen (siehe Rezepte) anrichten.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "ausgezeichnet mit Wildreis"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Truthanschnitzerln mit pikanter Sauce",
+      "categoryId": 5
+    },
+    {
+      "id": 46,
+      "ingredients": "{200} g Langkorn-Wildreis-Mischung\n    {1} EL Butter",
+      "additional-ingredients": "Salz",
+      "info": "{4} Portionen, Zubereitung ca. {25} Minuten",
+      "beverage": "keine",
+      "instruction": "reis in {400} ml Salzwasser weich kochen, abseihen und gut abtropfen lassen.\n    Reis in aufgeschäumter Butter erwärmen.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Gemischter Reis",
+      "categoryId": 3
+    },
+    {
+      "id": 47,
+      "ingredients": "{400} g Schalotten-Zwiebeln\n    {200} ml klare Suppe\n    {1} Pkg. Gartenkresse\n    {1} EL Butter",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "{4} Portionen, Zubereitung ca. {30} Minuten",
+      "beverage": "keine",
+      "instruction": "Schalotten-Zwiebeln schälen, in Butter anschwitzen und mit Salz und Pfeffer\n    würzen. Suppe zugießen, Topf bis auf einen Spalt zudecken, Zwiebeln weich\n    dünsten (dauert ca. {12} Minuten) -- dabei immer wieder durchmischen - Am\n    Ende der Garzeit sollte die Flüssigkeit fast ganz eingekocht sein. Vor dem\n    Anrichten Kresseblättchen untermischen.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Schalotten mit Kresse",
+      "categoryId": 10
+    },
+    {
+      "id": 48,
+      "ingredients": "{1} Lammrückenfilet (ausgelöst; ca. {500} g)\n    {3} EL Öl\n    {1 / 2} TL frischer Ingwer ( geschält und kleinwürfelig geschnitten)\n    {200} ml Lamm-Bratensaft (oder Bratensaft Fertigprodukt)\n    {1 / 2} EL Petersil (fein gehackt)",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "{4} Portionen, Zubereitung ca. {30} Minuten",
+      "beverage": "keine",
+      "instruction": "Lammfilet in {8} gleich dicke Scheiben (Medaillons) schneiden, ein wenig\n    flach klopfen, salzen, pfeffern und in Öl beidseitig scharf anbraten. Bei\n    milder Hitze fertig braten (insgesamt nicht länger als {4} Minuten). Fleisch\n    aus der Pfanne heben und zugedeckt warm stellen. - Im Bratrückstand Ingwer\n    kurz anschwitzen, mit Bratensaft aufgießen und aufkochen, Petersil\n    einrühren, Fleisch einlegen, kurz ziehen lassen. Medaillons mit der Sauce\n    und den Beilage servieren.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "Ingwer in der Sauce ist interessant"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Lamm-Medaillons mit Ingwersauce",
+      "categoryId": 14
+    },
+    {
+      "id": 49,
+      "ingredients": "{4} Scheiben vom Schweinsrückenfilet (a ca. {100}\n    g)\n    {3} EL Öl\n    {200} ml Bratensaft Je ca. {50} g roter und grüner Paprika\n    {125} g Creme fraiche\n    {1} Dotter\n    {80} g Parmesan (gerieben)\n    {1} EL Majoran (gehackt)",
+      "additional-ingredients": "Salz, Pfeffer, Butter",
+      "info": "{4} Portionen, Zubereitung ca. {20} Minuten",
+      "beverage": "keine",
+      "instruction": "Paprika in sehr kleine Würfel schneiden, mit Creme fraiche, Dotter, Parmesan\n    und Majoran gut verrühren. Masse mit Salz und Pfeffer würzen. - Backrohr auf\n    Grillstellung vorheizen. Eine Auflaufform mit Buffer ausstreichen. - Steaks\n    ein wenig flach drücken, mit Salz und Pfeffer würzen. Öl erhitzen, Steaks\n    darin beidseitig braten (ca. {2} Minuten), aus der Pfanne heben und in die\n    vorbereitete Form legen. Mit der Krustenmasse bestreichen und im\n    vorgeheizten Rohr (mittlere Schiene / Gitterrost) überbacken. - Inzwischen\n    Bratrückstand mit Bratensaft aufgießen und aufkochen. Fleisch aus dem Rohr\n    nehmen, mit der Sauce und den Beilagen (siehe Rezepte) anrichten.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Krustenmasse eignet sich auch als Jausenaufstrich"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Schweinsrücken-Steaks mit Paprika-Käsekruste",
+      "categoryId": 2
+    },
+    {
+      "id": 50,
+      "ingredients": "{400} g Maccheroni\n    {3} EL Olivenöl\n    {50} g Zwiebel\n    {4} Knoblauchzehen\n    {100} g Frühstücksspeck\n    {1} Chilischote\n    {4} EL Olivenöl\n    {80} ml Weißwein\n    {400} g geschälte Paradeiser (\"Pelati\" aus der Dose)\n    {50} g frischer Parmesan (grob geraspelt)",
+      "additional-ingredients": "Salz, Pfeffer, Cayemmepfeffer, Petersil",
+      "info": "{4} Portionen, Zubereitung ca. {35} Minuten",
+      "beverage": "keine",
+      "instruction": "Zwiebel und Knoblauch schälen, Zwiebel und Speck kleinwürfelig schneiden,\n    Knoblauch grob hacken. Chilischote der Länge nach halbieren, entkernen und\n    in dünne Streifen schneiden. - In einer großen Pfanne Speck in Öl anbraten,\n    Zwiebeln, Knoblauch und Chili zugeben und mitrösten. Mit Wein ablöschen,\n    Paradeiser samt Saft zugeben. Paradeiserstücke mit einer Gabel zerdrücken\n    und ein wenig aufkochen lassen. Sauce mit Salz, Pfeffer und Cayennepfeffer\n    würzen. - Parallel dazu reichlich Wasser mit Salz und Öl aufkochen. Nudeln\n    darin bissfest ({10}-{12} Minuten) kochen, abseihen, kurz abtropfen lassen\n    und sofort mit dem Sugo vermischen. Nudeln mit Parmesan bestreut servieren.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "Sauce schmeckt auch ohne Chilischote ausgezeichnet."
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Zusätzlich kann man dieses Gericht mit gehacktem Petersil verfeinern"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Maccheroni All'Arrabbiate",
+      "categoryId": 6
+    },
+    {
+      "id": 51,
+      "ingredients": "{200} g Faschiertes\n    {1} Dotter\n    {40} g Semmelbrösel\n    {1} EL Petersil (gehackt)\n    {125} mö Bratensaft\n    {3} EL OlivenÖL\n    {40} g Schafkäse\n    {1 / 2} kleiner Paradeiser\n    {1} TL frischer Oregano (gehackt)",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "{2} Portionen, Zubereitung ca. {30} Minuten",
+      "beverage": "Mittelkräftige Weißweine wie etwa ein Grüner Veltliner oder Riesling\n    Federspiel begleiten hier ebenso stimmig wie ein schönes Glas Bier.",
+      "instruction": "Schafkäse trockentupfen. Paradeiser entkernen. Paradeiser und Käse in\n    möglichst kleine Stücke schneiden, mit Oregano vermischen, mit Salz und\n    Pfeffer würzen. - Faschiertes mit Dotter, Bröseln, {1 / 2} EL Petersil, Salz\n    und Pfeffer gut verkneten, in {6} Portionen teilen, flach drücken, mit Fülle\n    belegen und zu glatten Kugeln formen. - In einer Pfanne Öl erhitzen,\n    Fleischbällchen darin zugedeckt braten (ca. {5} Minuten). Die Pfanne dabei\n    immer wieder vorsichtig rütteln, damit die Bällchen gleichmäßig braun\n    werden. Parallel dazu Bratensaft erhitzen und den übrigen Petersil\n    einrühren. Fleischbällchen mit der Sauce und dem Gemüse anrichten.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "mild"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Fleischbällchen mit Schafkäse und Paradeisern gefüllt",
+      "categoryId": 1
+    },
+    {
+      "id": 52,
+      "ingredients": "{150} g Karotten\n    {1} kl. grüner Paprika\n    {1} EL Butter\n    {80} ml klare Suppe\n    {1} EL Sesam",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "{2} Portionen, Zubereitung ca. {15} Minuten",
+      "beverage": "Mittelkräftige Weißweine wie etwa ein Grüner Veltliner oder Riesling\n    Federspiel begleiten hier enbenso stimming wie ein schönes Glas Bier.",
+      "instruction": "Karotten schälen und in {1 / 2} cm dicke Scheiben schneiden (größere\n    Exemplare zuvor längs halbieren). - Paprika putzen, waschen und in ca. {2}{\" \"}\n    cm große Stücke schneiden. - Gemüse in Butter anschwitzen, mit Suppe\n    aufgießen und bei schwacher Hitze zugedeckt bissfest dünsten. Gemüse mit\n    Salz und Pfeffer würzen. Knapp vor dem Servieren mit Sesam vermischen.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Karotten-Paprikagemüse mit Sesam",
+      "categoryId": 10
+    },
+    {
+      "id": 53,
+      "ingredients": "{4} Hühnerfilets (je ca. {160} g; ohne Haut)\n    {1} Pkg. TK-Blattspinat mit Philadelphia (400g)\n    {30} g TK-Knoblauch\n    {200} g Sauerrahm\n    {1} Ei\n    {100} g Cocktailparadeiser",
+      "additional-ingredients": "Salz, Pfeffer, Muskat, Öl, Butter",
+      "info": "{4} Portionen, Zubereitung ca. {20} Minuten",
+      "beverage": "Sauvignon blanc oder Pinot blanc aus der Steiermark sind dazu gute Begleiter\n    -- allerdings dürfen sie nicht zu dünn oder säurebetont ausfallen, da sie\n    sonst vom Spinat geschmacklich negativ beeeinflusst werden.",
+      "instruction": "Spinat nach Packungsanleitung auftauen lassen. Rohr auf starker Oberhitze (\n    {230} °C) vorheizen. Eine Auflaufform mit Butter ausstreichen. - Zwiebel und\n    Knoblauch in {2} EL Öl goldgelb rösten. Spinat untermischen und vom Herd\n    nehmen. Rahm und Ei einrühren, Spinat mit Salz und Muskat würzen, in der\n    Form verteilen und im Rohr (untere Schiene / Gitterrost) ca. {5} Minuten\n    backen. - Hühnerfilets salzen, pfeffern und in {2} EL Öl bei mittlerer Hitze\n    beidseitig braten (insgesamt {5} Minuten). - Paradeiser vierteln und in\n    etwas Öl anschwitzen. - Hühnerfilets in Scheiben schneiden, mit dem Spinat\n    anrichten und mit den Paradeisern garnieren.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "schnelle Zubereitung"
+        },
+        {
+          "type": "negative",
+          "text": "viel Geschirr"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning",
+          "text": "ohne Beilage"
+        }
+      ],
+      "name": "Hühnerfilet auf überbackenem Blattspinat",
+      "categoryId": 7
+    },
+    {
+      "id": 54,
+      "ingredients": "{600} g Schweinefilet\n{2} Zwiebeln, in feine Scheiben geschnitten\nSaft einer halben Zitrone\n{2} EL flüssiger Honig\n{3} EL Natives Olivenöl Extra von Carli\n{2} EL Balsamico-Essig von Carli",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "Zutaten für {6} Personen, Zeitaufwand: {10} Min. + {15} Min. braten",
+      "beverage": "keine",
+      "instruction": "Das Filet zu {3} cm dicken Medaillons schneiden und in einer Pfanne von beiden Seiten {3} Min. im Olivenöl zart anbraten. Die Zwiebelringe hinzufügen und {5} Min. bei schwacher Hitze weiterbraten. Salzen, pfeffern und mit dem Zitronensaft beträufeln. Weitere {10} Min. schmoren lassen, dabei das Fleisch einmal wenden. Dann die Medaillons herausnehmen und auf einem Teller warmstellen. Den Bratensatz mit dem Balsamico-Essig, dem Honig und einem Glas Wasser ablöschen. Leicht karamellisieren lassen. Die Schweinemedaillons wieder zur Sauce geben, bis sie gut durchtränkt sind.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Als Beilage passen Polenta oder Gnocchis"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Schweinsmedaillons mit Honig und Zitrone",
+      "categoryId": 2
+    },
+    {
+      "id": 55,
+      "ingredients": "{500} g Hähnchenbrustfilet\n{3} EL Balsamico-Essig von Carli\n{200} ml Creme fraiche\n{100} g gorgonzola-Käse\n{3} EL Natives Olivenöl Extra von Carli",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "Für {4} Personen, Zeitaufwand: {10} Min",
+      "beverage": "keine",
+      "instruction": "Das Fleisch in Würfel schneiden und {5} Min. mit dem Olivenöl in einer Pfanne rundum anbraten. Die Creme fraiche hinzufügen, salzen, pfeffern und {2} Min. eindicken. Jetzt den Gorgonzola in Stückchen einrühren und bei schwacher Hitze schmelzen lassen. Im letzten Moment den Balsamico-Essig zugeben und diese zart rosa Sauce nochmmals {1} - {2} Min. eindicken lassen.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Aus:Fratelli Carli"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Hähnchen mit Gorgonzola-Sauce",
+      "categoryId": 7
+    },
+    {
+      "id": 56,
+      "ingredients": "{250} g entkernte Dörrzwetschken\n    {350} ml halbtrockener Weißwein\n    {2} cl Cognac\n    {4} schwarze Pfefferkörner\n    {1} Prise Zimt\n    {200} g Frühstücksspeck im Ganzen\n    {1} kg Schweinefilet\n    {1} EL Mehl\n    {100} ml Hühnersuppe (auch Suppenwürfel)\n    {1} EL Tomatenmark\n    {200} g Creme fraiche",
+      "additional-ingredients": "Salz, Pfeffer aus der Mühle",
+      "info": "Zutaten für {4} Personen, Zubereitungszeit: {40} Min",
+      "beverage": "keine",
+      "instruction": "Dörrzwetschken heiß abspülen (damit sie besser quellen) und mit dem Wein,\n    Cognac, den Pfefferkörnern und der Prise Zimt in einer Schüssel über Nacht\n    im Kühlschrank marinieren. - Am Tag der Zubereitung den Wein abgießen und in\n    einem Topf zum Kochen bringen, von der Flamme ziehen und die Dörrzwetschken\n    etwa {15} Minuten mit geschlossenem Deckel ziehen lassen. - Speck in kleine\n    Würfel schneiden; in einer Bratpfanne nicht zu kross braten. - Fleisch in\n    große Würfel schneiden. Butter (oder Schweineschmalz) in einem großen Topf\n    erhitzen und das Fleisch rundherum kurz anbraten. Das Mehl über das Fleisch\n    sieben und etwa eine Minute weiterbraten, immer wieder umrühren. -\n    Zwetschken mit einer Schaumkelle aus dem Wein nehmen und warm stellen. -\n    Fleisch mit Wein und Hühnersuppe ablöschen. Speck zum Fleisch geben.\n    Tomatenmark unterrühren; zugedeckt bei geringer Hitze {75} Minuten schmoren.\n    - Fleisch und Speck mit der Schaumkelle herausholen und warm stellen. -\n    Creme fraiche in den Sud einrühren; die Sauce bei kleiner Flamme eindicken\n    lassen und mit Salz und Pfeffer würzen. - Sauce durch ein Sieb passieren;\n    mit Fleisch, Speck und Dörrzwetschken zurück in den Topf geben und erwärmen.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "Dörrzwetschken sorgen für eine gute Verdauung"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Aus Billa Rezepte; Als Beilage eignet sich sehr gut Kartoffelpüree"
+        },
+        {
+          "type": "warning",
+          "text": "gekocht nicht nach Rezept, nut mit den Zutaten; zu kompliziert"
+        }
+      ],
+      "name": "Schweinefilet mit Dörrzwetschken",
+      "categoryId": 2
+    },
+    {
+      "id": 57,
+      "ingredients": "{450} g Rumpsteak\n    {2} EL Sojasauce\n    {3} EL Maisstärke\n    {3} EL Pflanzenöl\n    {1} EL Knoblauch\n    {1} EL frische Ingwer wurzel\n    {225} g verschiedene Pilze\n    {2} EL Austernsauce oder Thai-Fischsauce (ersatzweise Salz)\n    {1} TL Zucker Pfeffer\n    {4} Frühlingsziwbeln\n    {2} frische rote Chilischoten (bzw. Sambal Oelek oder Chilisauce scharf)",
+      "additional-ingredients": "",
+      "info": "Zutaten für {4} Personen, Zubereitungszeit:25 min",
+      "beverage": "keine",
+      "instruction": "Rindfleisch für {30} bis {40} Minuten ins Tiefkühlfach legen, bis es fest\n    ist. Dann mit scharfem Messer diogonal in lange, dünne Streifen schneiden. -\n    Sojasauce und Maisstärke in einer Schüssel verrühren. Fleisch einlegen und\n    darin wenden. Mit Klarsichtfolie abdecken und bei Raumtemperatur {1} - {2}{\" \"}\n    Stunden marinieren lassen. - Die Hälfte des Öls in einem Wok erhitzen.\n    Gehackten Knoblauch und Ingwer darin {1} - {2} Minuten rühren, bis sie\n    duften. Das Fleisch abtropfen lassen, hinzufügen und durchmischen, bis die\n    Streifen nicht mehr aneinandern haften. {1} - {2} Minuten pfannenrühren; das\n    Fleisch soll rundum Farbe annehmen und weich sein. Herausnehmen, beiseite\n    stellen. - Das übrige Öl im Wok erhitzen. Pilze darin bei mittlerer Hitze\n    pfannenrühren, bis sie goldbraun sind. - Rindfleisch zurück in den Wok\n    geben,mit Pilzen vermischen. Austernsauce bzw. Thai-Fischsauce (Ersatzweise\n    Salz), Zucker unterrühren, mit gemahlenem schwarzen Pfeffer würzen. Alles\n    gleichmäßig durchmischen. - Frühlingszwiebeln unterrühren. Anrichten,\n    eventuell mit in Streifen geschnittenen Chilischoten garnieren und\n    servieren.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "schmeckt leicht exotisch (chinesisch) -"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning",
+          "text": "ohne Chilisauce gekocht, mit Rindfleisch"
+        }
+      ],
+      "name": "Rindfleisch mit Pilzen",
+      "categoryId": 15
+    },
+    {
+      "id": 58,
+      "ingredients": "{4} Hühnerbrustfilets Saft von {1 / 2} Zitrone\n    {1} Ei\n    {1} gehackte Knoblauchzehe\n    {1} EL gehackte Petersilie\n    {3} EL Mehl\n    {3} EL Semmelbrösel\n    {4} EL Olivenöl von Carli",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "Zutaten für {4} Personen,Zeitaufwand: {15} + {10} Min. Braten",
+      "beverage": "keine",
+      "instruction": "Das Fleisch in Streifen schneiden. Knoblauch mit Zitronensaft vermischen und\n    die Fleischstücke {15} Min. darin marinieren. Abtropfen lassen, salzen und\n    pfeffern. Semmelbrösel und Petersilie vermengen. Die Hühnchen-Streifen erst\n    in Mehl, dann im verquirlten Ei und zuletzt in der Panade aus Petersilie und\n    Semmelbröseln wenden. Die panierten Hähnchensticks {10} Min. bei mittlerer\n    Hitze in einer Pfanne in Olivenöl goldbraun braten. Heiß servieren. Als\n    Beilage passt Rukola-Salat, angemacht mit Nativem Olivenöl Extra und\n    Balsamico-Essig von Carli.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Panierte Hähnchensticks",
+      "categoryId": 7
+    },
+    {
+      "id": 59,
+      "ingredients": "{70} dag Schweinsfilet\n    {15} dag Eierschwammerln\n    {2} Schalotten\n    {4} EL Öl\n    {1 / 8} klare Suppe\n    {6} dag Creme fraiche frischer Thymian",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "{4} Portionen, Zubereitungszeit: ca. {25} Minuten",
+      "beverage": "keine",
+      "instruction": "Schwammerln putzen und zerteilen, Schalotten schälen und kleinwürfelig\n    schneiden. - Fleisch salzen und pfeffern, im heißen Öl rosa braten und\n    zugedeckt beiseite stellen. - Im Bratenrückstand Schalotten und Schwammerln\n    anschwitzen, mit Suppe aufgießen, mit Creme fraiche einrühren, bei geringer\n    Hitze binden und mit Thymian bestreuen. - Das Fleisch in dicke Schreiben\n    schneiden und mit der Schwammerlsauce servieren.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Eierschwammerln gibt es am Bauernmarkt"
+        },
+        {
+          "type": "warning",
+          "text": "keine Austernpilze verwenden: ausgezeichnet, jedoch von der Menge zu wenig\n    -- zerkochen sich mehr"
+        }
+      ],
+      "name": "Schweinsfilet mit Schwammerlsauce",
+      "categoryId": 2
+    },
+    {
+      "id": 60,
+      "ingredients": "{500} g Pilze\n    {4} Eier etwas Salz\n    {50} g Mehl\n    {150} g Semmelbrösel\n    {150} g Öl etwas Butter etwas Petersilie etwas Zitrone",
+      "additional-ingredients": "",
+      "info": "Zutaten für {4} Portionen",
+      "beverage": "keine",
+      "instruction": "Die zubereiteten kleinen Pilze ganz lassen, größere in ca. {2} cm dicke\n    Schreiben schneiden, gut abtrocknen, salzen, in Mehl, zerquireltem Ei und\n    Semmelbröseln panieren und in reichlicher Menge erhitzem Öl von beiden\n    Seiten goldgelb backen. Gebackenes aus dem Öl nehmen, auf einer\n    Papierserviette gut abtropfen lassen, auf einer vorgewärmten Platte\n    anrichten, mit zerlassener Butter betropfen und mit Zitronenscheiben und\n    grüner Petersilie garnieren.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Panierte Pilze",
+      "categoryId": 15
+    },
+    {
+      "id": 61,
+      "ingredients": "{750} g Pfifferlinge\n    {125} ml Gemüsebrühe\n    {1} Zwiebel\n    {1} EL Zwiebel\n    {1} EL Mehl\n    {500} ml Sahne",
+      "additional-ingredients": "Salz, Pfeffer, Petersilie",
+      "info": "",
+      "beverage": "keine",
+      "instruction": "Die Eierschwammerl putzen und klein schneiden, die Zwiebel schälen und fein\n    würfeln. - Etwas Öl in einer Pfanne erhitzen, die Zwiebel andünsten und dann\n    die Eierschwammerl dazugeben. Etwas anbraten, dann das Mehl darüber stäuben,\n    umrühren und die Brühe angießen. - Dann ca. {5} min bei geschlossenem Deckel\n    köcheln lassen. Sahne dazu und mit Salz, Pfeffer und Petersilie abschmecken.\n    Wenn die Soße zu flüssig ist mit etwas Saucenbinder binden.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Pfifferling = Eierschwammerl; Roh - können ein paar Tage im Kühlschrank\n    sein; fertige Sauce kann man einfrieren"
+        },
+        {
+          "type": "warning",
+          "text": "statt Zwiebel -> Schalotten; Schwammerln müssen gerissen werden"
+        }
+      ],
+      "name": "Eierschwammerlsauce",
+      "categoryId": 15
+    },
+    {
+      "id": 62,
+      "ingredients": "{250} g Spaghetti (Vollkornspaghetti)\n    {450} g Pfifferlinge, (frische)\n    {2} Dosen Tomaten\n    {1 / 2} Bund Frühlingszwiebeln\n    {2} Knoblauchzehen\n    {40} g Parmesan, gerieben\n    {2} EL Thymian(Blättchen)\n    {1} EL Balsamico\n    {1 / 2} TL Zucker\n    {2} EL Olivenöl\n    {150} g Mozzarellakügelchen\n    {3} EL Basilikum, frisch und fein geschnitten",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "Zutaten für {4} Personen, Arbeitszeit: {20} Min, Kochzeit: {20} Min.",
+      "beverage": "keine",
+      "instruction": "Knoblauch fein schneiden, Frühlingszwiebeln in dünne Ringe schneiden.\n    Pfifferlinge säubern und in mundgerechte Stücke schneiden. - Dann Zwiebeln\n    und Knoblauch mit dem Olivenöl kurz anbraten, Pilze und Thymian zugeben und\n    weitere {2} Minuten braten. - Mit der Tomatensauce ablöschen und {5} Minuten\n    köcheln lassen. - Geriebenen Parmesan zugeben und mit Pfeffer, Salz und\n    Zucker abschmecken und mit Essig verfeinern.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative",
+          "text": "schmeckt Alexander nicht"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Pfifferling-Spaghetti",
+      "categoryId": 9
+    },
+    {
+      "id": 63,
+      "ingredients": "{600} g Beiried oder Rindsfiletspitzen\n    {3} EL Öl\n    {150} g Pilze (Austernpilze, Champignons, Eierschwammerln)\n    {40} g Butter {1} Pkg. Tk-Ziwbel ({80} g)\n    {1} TL TK-Knoblauch\n    {1} Pkg. TK-Italienische Kräuter ({40} g)\n    {70} ml trockener Weißwein\n    {150} ml Schlagobers",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "{4} Portionen, Zubereitung ca. {30} Minuten",
+      "beverage": "keine",
+      "instruction": "Pilze putzen, waschen und in Stücke schneiden. Fleisch in Längsstreifen,\n    dann quer in Scheiben schneiden, salzen und pfeffern. - In einer großen\n    Pfanne Öl erhitzen, Fleisch darin bei starker Hitze in {2} Arbeitsgängen\n    beidseitig rasch anbraten. Fleisch aus der Pfanne nehmen und zugedeckt warm\n    stellen. - Im Bratrückstand Butter erhitzen. Zwiebel, Knoblauch,\n    Italienische Kräuter und Pilze darin anschwitzen. Wein zugießen und die\n    Flüssigkeit etwas einkochen. Obers zugießen und ca. {1} Minute köcheln.\n    Sauce salzen und pfeffern. - Fleisch und ausgetretenen Fleischsaft zugeben\n    und erwärmen. Geschnetzeltes mit Rotkraut und Kroketten anrichten.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Geschnetzeltes mit Pilzen",
+      "categoryId": 15
+    },
+    {
+      "id": 64,
+      "ingredients": "{2} große Bund Basilikum\n    {4} in Öl eingelegte Sardellenfilet guter Qualität, abgetropft Meersalz und\n    frisch gemahlener schwarzer Pfeffer Saft von {2} Zitronen Olivenöl extra\n    vergine\n    {500} g Spaghetti guter Qualität\n    {(1, 5)} kg Miesmuscheln, gesäubert und entbartet\n    {1} großes Weinglas Weißwein\n    {2} - {3} frische rote Chilischoten, die Samen entfernt, fein gehackt",
+      "additional-ingredients": "",
+      "info": "Für {4} Personen",
+      "beverage": "Neuseeländischer Weißwein - Sauvignon Blanc",
+      "instruction": "Als Erstes die Basilikumblätter abzupfen. Alle kleineren Exemplare in eine\n    Tasse mit kaltem Wasser geben, die übrigen Blätter mit den Sardellenfilets\n    und {1} kräftigen Prise Salz im Mörser zerstoßen und zerreiben. Wenn Sie in\n    die grüne Paste, die Sie damit fabriziert haben, den Saft von {1} Zitrone\n    und etwa {8} EL Olivenöl extra vergine einrühren, erhalten Sie ein\n    hinreißend aromatisch duftendes Basilikumöl. - Die Muscheln durchsehen und\n    dabei geöffnete Exemplare aussortieren. Auf eine harte Fläche legen, nicht\n    zu zaghaft auf die Schalen klopfen und, falls sie sich dann nicht sofort\n    schließen, diese Muscheln wegwerfen. Die Spaghetti in einem großen Topf in\n    kochenem Salzwasser nach der Packungsanleitung al dente garen, danach sofort\n    abseihen. - Während die Pasta gart, einen zweiten großen Topf kräftig\n    erhitzen. Die Muscheln hineingeben und mit dem Weißwein übergießen. Einen\n    Deckel auflegen, den Topf kräftig schütteln und die Muscheln einige Minuten\n    dämpfen, bis sie sich geöffnet haben (Exemplare, die danach noch geschlossen\n    sind, wegwerfen). Die Spaghetti zusammen mit dem Basilikumöl in den Topf\n    geben. Mit den Muscheln und dem köstlichen Fond, der sich während des Garens\n    unten im Topf gesammelt hat, vermischen und dabei noch mehr Zitronensaft\n    sowie Salz und Pfeffer nach Geschmack zufügen. Die Pasta mit der delikaten\n    grünen Sauce gleich austeilen und zuletzt noch die Chilischoten und die\n    abgetropften ganzen Basilikumblätter darüberstreuen.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "aus Besser Kochen mit Jamie"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Miesmuschel-Spaghetti in einer Weißwein-Basilikumöl-Sauce",
+      "categoryId": 9
+    },
+    {
+      "id": 65,
+      "ingredients": "{4} Hähnchenbrustfilets\n    {2} EL Natives Olivenöl Extra von Carli\n    {4} EL Pesto von Carli\n    {150} ml Weißwein",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "Zutaten für {4} Personen, Zeitaufwand: {5} Min. + {15} Min. Braten",
+      "beverage": "keine",
+      "instruction": "Die Filets der Länge nach aufschneiden und gleichmäßig flach klopfen. Jedes\n    Fleischstück mit einem Esslöffel Pesto bestreichen, pfeffern, zu Rouladen\n    rollen und mit Küchengarn umwickeln. In einer Pfanne die {4} Rouladen {3}{\" \"}\n    Min. rundum im Olivenöl anbraten. Leicht salzen und den Weißwein zugeben,\n    weitere {10} Min. bei schwacher Hitze dünsten. Mit Salzkartoffeln servieren.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning",
+          "text": "Klopfen + mit Garn umwicklen = kompliziert; einfacher: Putenfilet mit\n    Zahnstocher zusammenstecken"
+        }
+      ],
+      "name": "Hühnchen-Rouladen mit Pesto",
+      "categoryId": 7
+    },
+    {
+      "id": 66,
+      "ingredients": "{4} Scheiben Rinderfilet\n    {1} EL Mehl\n    {5} EL Natives Olivenöl Extra von Carli\n    {2} EL Balsamico-Essing von Carli\n    {3} Schalotten, fein geschnitten",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "Für {4} Personen, Zeitaufwand: {5} Min. + {9} Min. Braten",
+      "beverage": "keine",
+      "instruction": "Die Filets salzen, pfeffern und in Mehl wenden. In einer Pfanne die\n    Schalotten {5} Min. mit der Hälte des Olivenöls anbräunen. Beiseite stellen.\n    Das Fleisch {2} Min. von jeder Seite im restlichen Öl braten. Die\n    Filetstücke auf einer Servierplatte anrichten. Die Pfanne mit dem\n    Balsamico-Essig ablöschen, leicht karamellisieren lassen, die Schalotten\n    hinzugeben. Die Sauce über das Fleisch gießen und sofort servieren.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Als Beilage passen Polenta oder Gnocchi"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Rinderfilet süß-sauer",
+      "categoryId": 1
+    },
+    {
+      "id": 67,
+      "ingredients": "{400} g Hackfleisch\n{400} g Spaghetti von Carli\n{800} g geschälte Tomaten (frisch oder aus der Dose)\n{3} EL Tomatenmark\n{1} gehackte Zwiebel\n{4} zerdrückte Knoblauchzehen\n{1} geraspelte Karotte\n{1} Stängel gehackter Sellerie\n{1} TL fein geschnittener Oregano\n{1} Zwei Rosmarin, nur die Blätter\n{1} Lorbeerblatt\n{1/2} Glas Weißwein\n{3} EL Natives Olivenöl Extra Carli Delicato",
+      "additional-ingredients": "Geriebener Parmesan, Salz, Pfeffer",
+      "info": "Für {4} Personen, Zeitaufwand: {10} Min. + {2} Std. Kochen",
+      "beverage": "keine",
+      "instruction": "In einer Pfanne die Zwiebel in Öl anschwitzen. Das Fleisch dazugeben, braten, bis es braun ist; dazu mehrmals mit einer Gabel flachdrücken. Salzen und pfeffern. Mit dem Weißwein ablöschen und {3} Min. köcheln lassen. Tomaten und Mark einrühren, ebenso den Knoblauch, die Karotte und alle Kräuter. Die Temperatur zurückdrehen und zugedeckt {2} Stunden schmoren, dabei regelmäßig umrühren. Die Nudeln in einem großen Volumen Salzwasser kochen, abgießen. Die Spaghetti in Suppentellern anrichten und mit der Sauce übergießen. Mit Parmesan bestreut sofort servieren.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Aus Olivio Carli"
+        },
+        {
+          "type": "warning",
+          "text": "1/2 Std. kochen auch ausreichend"
+        }
+      ],
+      "name": "Spaghetti Bolognese",
+      "categoryId": 9
+    },
+    {
+      "id": 68,
+      "ingredients": "{1} Pkg. TK-Zarte Sojabohnen ({300} g)\n    {8} dünne Schreiben von der Beiried (je ca. {60} g)\n    {1} Pkg. TK-8 Kräuter ({40} g)\n    {4} EL Olivenöl\n    {1} Pkg. TK-Zwiebel ({80}\n    g)",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "{4} Portionen, Zubereitung ca. {20} Minuten",
+      "beverage": "keine",
+      "instruction": "Sojabohnen auftauen lassen. Beiriedscheiben zwischen Frischhaltefolie\n    behutsam klopfen. Mit den Kräutern bestreuen, salzen, pfeffern und straff\n    einrollen. Röllchen mit Zahnstochern fixieren. - Röllchen im Öl rundum\n    braten, dabei öfter mit Bratfett übergießen. Aus der Pfanne nehmen und warm\n    stellen. - Fett abgießen, im Bratrückstand Zwiebel hell anschwitzen.\n    Sojabohnen untermischen, salzen, pfeffern und {3} - {4} Minuten braten.\n    Fleischröllchen mit Sojagemüse und Salat anrichten.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning",
+          "text": "Sojabohnen vorher kochen."
+        }
+      ],
+      "name": "Rindsröllchen mit Kräutern und Sojabohnen",
+      "categoryId": 1
+    },
+    {
+      "id": 69,
+      "ingredients": "{1} Blätterteig\n    {230} g Thunfisch Carli\n    {4} Eier\n    {250} g Ricotta-Käse (Topfen)\n    {2} EL Milch etwas Olivenöl Carli",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "Für {6} personen, Zubereitungszeit: {1} Stunde",
+      "beverage": "keine",
+      "instruction": "Den Blätterteig in eine mit Olivenöl eingefettete Springform von ca. {24} cm\n    Durchmesser legen und einstechen, Eier, Ricotta, Milch, den kleingehackten\n    Thunfisch vermischen und mit Salz und Pfeffer abschmecken. Die Masse auf dem\n    Teig verteilen und bei {200}\n    °C im vorgeheizten Backrohr {30} Minuten backen.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Thunfisch-Quiche[kesh] = ungesüßte Eierkrem mit einer pikanten Füllung; Nur\n    für {4} Personen: {2} Doesen weißer Thunfisch;{\" \"}"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Thunfisch-Quiche",
+      "categoryId": 16
+    },
+    {
+      "id": 70,
+      "ingredients": "{350} g Barilla Mini Penne Rigate\n    {150} g gekochter Schinken\n    {60} g geriebener Parmigiano-Reggioano-Käse\n    {100} g Erbsen\n    {120} ml Milch\n    {5} g frischer Schnittlauch\n    {2} EL Olivenöl extra vergine",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "Für {4} Personen",
+      "beverage": "keine",
+      "instruction": "Den in Würfel geschnittenen gekochten Schinken in etwas Olivenöl anbraten.\n    Danach das überflüssige Öl entfernen. Die Erbsen {3} Min. kochen, abgießen\n    und mit der Milch und dem Parmigiano-Reggiano-Käse zum Schinken geben. Alles\n    bei schwacher Hitze kochen lassen, bis Sie eine cremige Sauce erhalten. Die\n    Mini Penne in reichlich Salzwasser nach Packungsanweisung kochen, abgießen\n    und in der Sauce schwenken. Noch {1 / 2} Min. unter Umrühren aufkochen\n    lassen. Mit Schnittlauch bestreuen und servieren.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "\"das schnellste Rezept der Welt\""
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Mini Penne Rogate",
+      "categoryId": 17
+    },
+    {
+      "id": 71,
+      "ingredients": "{450} g Penne Carli\n    {1} Glas Creme aus getrockneten Tomaten Carli Natives Olivenöl Extra Carli\n    Delicato Basilikumblätter Geirbeneer Schafskäse (pecorino) Champignons\n    Entsteinte Oliven Carli",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "Für {4} Personen, Zeitaufwand: {15} Minuten",
+      "beverage": "keine",
+      "instruction": "Das Wasser zum Kochen bringen. Indessen in einer weiten Pfanne die Creme aus\n    getrockneten Tomaten anwärmen. - Champignons gut säubern und in Scheiben\n    schneiden. Nudeln in Salzwasser garen und, wenn sie al dente sind, etwas\n    Seihwasser entnehmen, das restliche Wasser abgießen und die Nudeln mit der\n    Creme sautieren. Das Kochwasser hinzugeben. - Die kleingerupften\n    Basilikumblätter darüberstreuen, Pilze und Oliven hinzufügen und alles gut\n    vermischen. Mit Salz und Pfeffer abschmecken und mit Schafskäse bestreuen.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Penne in Trikolore (grün-weiß-rot)",
+      "categoryId": 6
+    },
+    {
+      "id": 72,
+      "ingredients": "{500} g Spaghetti\n    {1} EL Olivenöl\n    {2} Eier\n    {200} g Speck\n    {50} ml Sahne geriebener Parmesan",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "",
+      "beverage": "keine",
+      "instruction": "Spaghetti nach Packungsanleitung kochen. Öl in einer Pfanne erhitzen und den\n    fein gewürfelten Speck knusprig anbraten. - Sahne, Eier und Käse vermischen\n    und kräftig mit Salz und Pfeffer abschmecken. - Die abgetropften Spaghetti\n    mit dem Speck und die anderen Zutaten untermengen. Sofort heißt servieren!",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "\"das schnellste Rezept der Welt\""
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Spaghetti Carbonara",
+      "categoryId": 9
+    },
+    {
+      "id": 73,
+      "ingredients": "{2} Schalotten fein geschnitten (oder eine nicht zu große Zwiebel)\n    {100} g Schinken aus San Daniele, nudelig geschnitten pro Teller zwei große,\n    dünne Scheiben San Danieler Schinken, hauchdünn geschnitten ein Glas\n    \"Friulano\"\n    {8} Walnüsse\n    {380} g Spaghetti Salz Gran Padano ein Teelöfel Butter",
+      "additional-ingredients": "",
+      "info": "",
+      "beverage": "keine",
+      "instruction": "Wasser zum Nudelkochen aufstellen. San Danieler Schinken feinnudelig\n    schneiden, Schalotten fein hacken, Walnüsse grob mahlen. - Schalotten in\n    etwas Olivenöl anschwitzen, den Schinken und dann die Walnüsse dazugeben.\n    Durchrösten, mit \"Friulano\" ablöschen. - Die Nudeln al dente kochen und zum\n    Schinken geben. Etwas Kochwasser beimengen. Durchschwenken, auf die\n    Schinkenblätter legen.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "schnelle Zubereitung"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning",
+          "text": "San Daniele Schinken sehr teuer"
+        }
+      ],
+      "name": "Spaghetti Friulano",
+      "categoryId": 9
+    },
+    {
+      "id": 74,
+      "ingredients": "{500} g Farfalle\n    {250} g Räucherlachs\n    {2} mittlere Fenchel\n    {3} El Olivenöl\n    {2} EL Pignoli\n    {1} EL Rosinen\n    {125} ml Schlagobers",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "{4} Portionen, Zubereitung ca. {30} Minuten",
+      "beverage": "Die perfekte Begleitung zu diesem Gericht ist ein junger, fruchtiger\n    Riesling Federspiel aus der Wachau.",
+      "instruction": "In einem großen Topf reichlich Salzwasser aufkochen. Farfalle zugeben und\n    unter öfterem Rühren bissfest kochen. Farfalle abseihen, kurz abschrecken\n    und gut abtropfen lassen. - Lachs in dünne Streifen schneiden. Grün vom\n    Fenchel abzupfen und eventuell grob hacken. Fenchel halbieren und die\n    Strünke ausschneiden. Fenchel schälen und in {0.5} cm breite Streifen\n    schneiden. - In einer großen Pfanne Öl erhitzen, Fenchel darin unter öfterem\n    Rühren goldbraun braten, mit Salz und Pfeffer würzen. Pignoli und Rosinen\n    untermischen und kurz mitbraten. Fenchel mit Obers aufgießen und aufkochen.\n    Lachsstreifen zugeben und kurz ziehen lassen. - Farfalle mit Fenchelgemüse\n    und Fenchelgrün vermischen, eventuell mit Salz und Pfeffer nachwürzen.\n    Farfalle anrichten.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "pignoli = Pinienkerne; auch sehr gut mit Spaghetti"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Farfalle mit Lachs, Fenchel und Pignoli",
+      "categoryId": 6
+    },
+    {
+      "id": 75,
+      "ingredients": "{4} Steaks von der Kareerose (je {70} g)\n    {1} El Dijonsenf\n    {1} Fenchel\n    {1 / 2} roter Paprika\n    {1} EL Thymian (gehackt)",
+      "additional-ingredients": "Salz, Pfeffer, Olivenöl",
+      "info": "{2} Portionen, Zubereitun ca. {30} Minuten",
+      "beverage": "Dazu passt ein {3}\n    -jähriger, holzfassgereifter vollmundiger Sankt Laurent aus der\n    Thermenregion.",
+      "instruction": "Rohr auf {50}\n    °C vorheizen. Fenchel putzen, längs halbieren und den Strunk ausschneiden.\n    Fenchel in {0.5} cm breite Scheiben schneiden. Paprika putzen, halbieren und\n    in schmale Streifen schneiden. - Steaks salzen, pfeffern und auf einer Seite\n    dünn mit Senf bestreichen. - In einer Pfanne {2} EL Öl erhitzen, Steaks\n    darin beidseitig braten, herausnehmen und im Rohr warm stellen. Im\n    Bratrückstand Fenchel und Paprika in B2 El Öl braten, salzen und pfeffern.\n    Thymian untermischen. Steaks mit dem Gemüse anrichten. Als Beilage passen\n    Petersilerdäpfel.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Schweinssteaks mit Fenchel",
+      "categoryId": 2
+    },
+    {
+      "id": 76,
+      "ingredients": "{500} gTagliatelle\n    {2} Jungzwiebeln\n    {1} Knoblauchzehe\n    {1} roter Apfel\n    {40} ml Weißwein\n    {250} ml Schlagobers\n    {300} g Cocktail-Garnelen (essfertig)",
+      "additional-ingredients": "Salz, Pfeffer, Curry, Butter",
+      "info": "{4} Portionen, Zubereitung ca. {35} Minuten",
+      "beverage": "Curry begleitet man am besten mit vollmundigem Weißwein. Die perfekte Wahl\n    ist ein jugendlicher, trockener Sauvignon blanc aus dem\n    Neusiedlersee-Hügelland.",
+      "instruction": "Für die Sauce Zwiebeln und Knoblauch schälen und klein schneiden. Apfel\n    vierteln und das Kerngehäuse ausschneiden. Apfel in ca. {0.5} cm große\n    Stücke schneiden. - Zwiebeln und Knoblauch in {1} EL Butter anschwitzen.\n    Apfelstücke zugeben und mitbraten. {1} EL Curry einrühren, kurz mitrösten\n    und mit Wein ablöschen. Obers zugießen, Sauce aufkochen, mit Salz und\n    Pfeffer würzen. Garnelen unterrühren und in der Sauce ziehen lassen. - In\n    einem große Topf reichlich Salzwasser aufkochen. Tagliatelle zugeben und\n    unter öfterem rühren bissfest kochen. Tagliatelle abseihen, kurz abschrecken\n    und gut abtropfen lassen. Penne mit der Sauce vermischen und anrichten.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative",
+          "text": "nicht für Gäste geeignet"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning",
+          "text": "Sauce sehr dünn; beim Essen Spritzgefahr"
+        }
+      ],
+      "name": "Tagliatelle mit Currysauce, Garnelen und Äpfeln",
+      "categoryId": 6
+    },
+    {
+      "id": 77,
+      "ingredients": "{250} g SPAR PREMIUM Riesengarnelen (aufgetaut)\n    {2} EL Olivenöl Salz, Pfeffer aus der Mühle Cayennepfeffer oder getrocknete\n    Chilischote\n    {600} g Linguine\n    {1} kleine Zwiebel\n    {3} EL Olivenöl\n    {3} Knoblauchzehen, fein gehackt\n    {600} g Cocktailtomaten\n    {1} Briefchen Safran Saft von {1} Orange\n    {60} g Rucola geputzt.",
+      "additional-ingredients": "",
+      "info": "Für {4} Personen, Zubereitung ca. {30} Min.",
+      "beverage": "keine",
+      "instruction": "Aufgetaute Garnellen mit Küchenkrepp trocken tupfen, mit Salz und Pfeffer\n    sowie mit Cayennepfeffer oder einer getrocknete, zerriebenen kleinen\n    Chilischote würzen; mit Olivenöl beträufeln und bis zur Weiterverarbeitung\n    beseite geben. - Linguine in Salzwasser bissfest kochen (ca. {8} Minuten). -\n    In der Zwischenzeit: Zwiebel schälen, fein hacken. Öl in einem Topf\n    erhitzen, Zwiebel und Knoblauch darin hell anrösten. - Tomaten waschen,\n    halbieren, zugeben und {2} bis {4} Minuten andünsten. - Safran zugeben,\n    alles kurz durchrühren, Orangensaft zugeben und mit ca. {120} ml Kochwasser\n    von der Pasta aufgießen. Sauce {1} bis {2} Minuten bei geringer Hitze\n    köcheln lassen. Marinierte Garnelen zugeben und weitere {2} bis {3} Minuten\n    in den heißen Safran Tomaten \"ziehen lassen\"; mit Salz und Pfeffer\n    abschmecken und mit den Linguine anrichten.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Linguine mit geschmolzenen Safran-Tomaten, Garnellen und Rucola",
+      "categoryId": 6
+    },
+    {
+      "id": 78,
+      "ingredients": "{2} Jungzwiebeln\n    {1} Karotte\n    {200} g Shiitak Pilze\n    {1} kleine Fenchelknolle\n    {100} ml Weißwein\n    {100} ml klare Gemüsesuppe\n    {1} kleine Zitrone (unbehandelt)\n    {250} g Wildlachsfilet\n    {1} EL Creme fraiche\n    {1 / 2} Bund Kerbel (gehackt)",
+      "additional-ingredients": "Salz, Pfeffer, Kerbelblättchen",
+      "info": "{2} Portionen, Zubereitung ca. {35} Minuten",
+      "beverage": "Ein -- nicht zu kräftier -- Sauvignon blanc unterstreicht die Frische und\n    Leichtigkeit dieses Gerichtes. Vielleicht noch origineller: ein Gelber\n    Muskateller. (Und nicht nur des Reimes willen.)",
+      "instruction": "Gemüse und Pilze putzen, Jungzwiebeln längs halbieren. Jungzwiebeln und\n    Fenchel in feine Streifen, Karotte in feine Stifte, Pilze in dünne Scheiben\n    schneiden. - Backrohr auf ca. {50}\n    °C vorheizen, einen Teller hinein stellen. - In einer Pfannne Wein und Suppe\n    mit der abgeriebenen Schale von {1 / 4} Zitrone aufkochen. Gemüse und Pilze\n    zugeben und zugedeckt ca. {5} Minuten dünsten. - Fischfilets in {2}{\" \"}\n    möglichst gleich große Stücke schneiden, salzen, pfeffern und auf das Gemüse\n    legen. Fischfilets zugedeckt ca. {8} Minuten dünsten. - Fischfilets aus der\n    Pfanne heben, auf den vorgewärmten Teller legen, mit Alufolie zudecken und\n    im Rohr warm stellen. - Creme fraiche mit dem Gemüse verrühren, kurz\n    aufkochen und mit {2} TL Zitronensaft, Salz und Pfeffer würzen. Sauce vom\n    Herd nehmen und Kerbel einrühren. Gemüse mit den Fischfilets und der Sauce\n    anrichten und mit Kerbelblättchen garnieren.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Sauce sehr gemüßig, sonst keine Beilage"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Lachsfilet auf Fenchel und Pilzen",
+      "categoryId": 11
+    },
+    {
+      "id": 79,
+      "ingredients": "{300} g Rinderhackfleisch\n    {300} g Schweinehackfleisch\n    {2} Knoblauchzehen\n    {3} EL heiße Fleischbrühe\n    {1} gestrichener EL edelsüßes Paprikapulver\n    {1} Prise getrockneter Majoran\n    {3} Tropfen Tabascosauce\n    {1} Ei salz grobgemahlener schwarzer Pfeffer\n    {4} EL Olivenöl",
+      "additional-ingredients": "",
+      "info": "Zubereitungszeit: {35} Minuten",
+      "beverage": "keine",
+      "instruction": "Das Hackfleisch vom Metzger zweimal durchdrehen lassen. - Die Knoblauchzehen\n    schälen und feinhacken. Das Hackfleisch mit der Fleischbrühe, den Gewürzen,\n    dem Ei und dem Knoblauch gründlich verkneten. Mit Salz und Pfeffer\n    abschmecken. Aus dem Fleischteig mit nassen Händen gut daumendicke, {5} cm\n    lange Röllchen formen. - Das Olivenöl in einer Pfanne oder einer Grillpfanne\n    erhitzen und die Cevapcici darin ringsum knusprig braun braten. Oder die\n    Fleischwürstchen gut mit Öl bepinseln und im vorgeheizten Grill oder auf dem\n    Holzkohlengrill garen.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "Tipp: Stellen Sie die geformten Cevapcici vor dem Braten oder grillen einige\n    Stunden zugedeckt in den Kühlschrank. die Gewürze ziehen dann besser durch\n    und die Konsistenz der Röllchen wird fester."
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Das passt dazu: feingehackte rohe Zwiebeln oder kleine gegrillte Zwiebeln,\n    Salat aus Paprikaschotten, grilltomaten und helles Landbrot."
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Cevapcici",
+      "categoryId": 1
+    },
+    {
+      "id": 80,
+      "ingredients": "{3} EL Marsala Superiore Wein oder Sherry\n    {800} g Kartoffel-Gnocchi ( oder {2} Packungen Fertig-Gnocchi)\n    {200} g frische Garnelen\n    {100} g Kirschtomaten\n    {2} EL Pesto Rosso Carli\n    {1} Frühlingszwiebel\n    {4} EL Natives Olivenöl Extra Carli Delicato Einige Basilikumblätter",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "Für {4} Personen, Zubereitungszeit: {15} Minuten",
+      "beverage": "keine",
+      "instruction": "Garnelen in einer Pfanne mit {2} EL Olivenöl braten. Vom Feuer nehmen und\n    sie abkühlen lassen, um sie zu schälen, anschließend in grobe Stücke\n    schneiden. Die Schalen durch ein Sieb drücken und die Sauce in einer Tasse\n    sammeln. Die grob geschnittene Frühlingszwiebel in eienr Pfanne mit Olivenöl\n    einige Minuten braten, halbierte Tomaten und Pesto Rosso hinzufügen, mit\n    Salz und Pfeffer abschmecken und {5}\n    -6 Minuten kochen, die Garnelen hinzufügen. Diese noch {1} Minute kochen und\n    mit dem Marsalawein und der Garnelensauce ablöschen. Gnocchi in kochenes\n    Salzwasser geben und mit einem Seihlöffel aus dem heißen Wasser nehmen\n    sobald sie an die Oberfläche kommen und zu den Garnelen geben. Etwas\n    Seihwasser dazugeben. Einige Basilikumblätter zum Garnieren darüber streuen.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Seemanns-Gnocchi",
+      "categoryId": 6
+    },
+    {
+      "id": 81,
+      "ingredients": "{1} Glas Artischockenherzen Carli\n    {320} g Penne Carli\n    {250} g frischer Ricotta-Käse\n    {1} Päckchen Safran Salz und Pfeffer Geriebener Paresankäse nach Belieben\n    {1} Knoblauchzehe Natives Olivenöl Extra Carli Fruttato Kleingeschnittene\n    Petersilie",
+      "additional-ingredients": "",
+      "info": "{4} Personen, Zubereitungszeit:15 Minuten",
+      "beverage": "keine",
+      "instruction": "In einer Pfanne den Knoblauch im Olivenöl anbraten; sobald er gebräunt ist,\n    aus der Pfanne nehmen. Die Artischockenherzen vierteln, abtropfen lassen und\n    zum Öl geben. {10} Minuten auf niedriger Flamme köcheln lassen. Den\n    Ricotta-Käse, eine Prise Salz, die Petersilie hinzufügen und eine Minute\n    weiter kochen lassen. - Die Nudeln bissfest in siedendem Salzwasser,\n    zusammen mit dem Safran, kochen. Das Wasser abgießen und die Nudeln in die\n    Pfanne geben. Langsam mit der Ricotta-Artischockensauce verrühren. Mit\n    Parmesankäse überstreuen und mit Pfeffer abschmecken.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Sämige Penne-Nudeln",
+      "categoryId": 6
+    },
+    {
+      "id": 82,
+      "ingredients": "{6} Hähnchenschnekel\n    {4} fein geschnittene Zwiebeln\n    {200} ml lieblicher Weißwein\n    {2} Knoblauchzehen\n    {2} EL Akazienhonig von Carli\n    {100} g getrocknete Aprikosen\n    {4} EL Natives Olivenöl Extra carli Delicato",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "{6} Personen, Zeitaufwand: {5} Min. + {30} Min. Kochen",
+      "beverage": "keine",
+      "instruction": "Die Fleischstücke in {2} EL Olivenöl in der Pfanne anbraten und {5} Minuten\n    von jeder Seite bräunen. Auf Küchenkrepp abtropfen lassen, die Pfanne von\n    überschüssigem Fett befreien. Die Zwiebeln und die Knoblauchzehen {5} Min.\n    im übrigen Olivenöl dünsten, dann das Huhn wieder zugeben. Salzen und\n    pfeffern, nochmals {5} Min. bei geringer Hitze braten. Honig und Wein\n    einrühren, zuletzt die geviertelten Aprikosen. Zugedeckt weitere {15} Min.\n    kochen. Servieren Sie als Beilage Polenta.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Hühnchen in Weißwein",
+      "categoryId": 7
+    },
+    {
+      "id": 83,
+      "ingredients": "{6} Bio-Eier\n    {40} g geriebener Parmesan\n    {100} g Zucchini Bio-Olivenöl zum Braten\n    {20} g Oliven (grün oder schwarz, entkernt)\n    {60} g Feta\n    {5} g SPAR Italienische Kräuter(TK)",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "{2} Portionen, Zubereitung ca. {20} Minuten",
+      "beverage": "keine",
+      "instruction": "Eier mit Parmesan, Salz und Pfeffer gut verschlagen. - Zuchini der Länge\n    nach halbieren und in Scheiben schneiden. - In einer Pfanne Olivenöl\n    erhitzen, Zucchini darin kurz anbraten. Eimischung einfüllen und etwas\n    anbacken. - Hitze reduzieren. Oliven, gewürfelte Feta und Kräuter\n    einstreuen. Im auf {160}\n    °C vorgeheizten Rohr in etwa {5} Minuten fertig backen.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "schnelles Essen"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "hat mit österreichischer Eierspeise nichts zu tun"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Zucchini-Frittata mit Käse",
+      "categoryId": 8
+    },
+    {
+      "id": 84,
+      "ingredients": "gehäufter TL Fenchelsamen\n    {2} - {3} frische rote Chilischoten, die Samen entfernt, sehr fein gehackt\n    abgeriebene Schale und Saft von {1} unbehandelten Zitrone + etwas mehr Saft\n    {1} Fenchelknolle, die Außenblätter enternt, das fedrige grüne beiseite\n    gelegt, die Knolle mit einem Sparschäler in feine Scheiben geschnitten knapp{\" \"}\n    {150} ml Olivenöl extra vergine + mehr zum Beträufeln\n    {400} g gegartes braunes Krebsfleisch Meersalz frisch gemahlener schwarzer\n    Pfeffer\n    {1} Bund grüner Spargel geputzt\n    {500} g Linguine oder Spaghetti guter Qualität",
+      "additional-ingredients": "",
+      "info": "Für {4} Personen",
+      "beverage": "Italienischer Weißwein - Vernaccia di San Gimignano",
+      "instruction": "Die Fenchelsamen im Mörser zerstoßen. Mit einem Großteil des Chili, der\n    Schale und dem Saft der Zitrone, den Fenchelscheiben und dem Olivenöl in\n    eine große, hitzebeständige Schüssel geben. Das weiße und braune\n    Krebsfleisch vermischen und unter den Schüsselinhalt mengen. Nach Geschmack\n    mit Salz und Pfeffer würzen und noch etwas Olivenöl darüberträufeln. Einen\n    großen Topf mit kaltem Salzwasser auf den Herd stellen und die Schüssel auf\n    den Topf setzen. Das Wasser auf hoher Stufe zum Kochen bringen, dabei ab und\n    zu die Krebsfleischmischung leicht durchrühren, während sie sich langsam mit\n    erwärmt. Parallel dazu die Spargelstangen mit einem Sparschäler längs in\n    feine Streifen schneiden und in einer zweiten Schüssel beiseite stellen;\n    zuletzt das Fenchelgrün grob hacken. - Wenn das Wsser zu kochen beginnt, die\n    Schüssel vom Topf nehmen (Vorsicht heiß!), die Pasta in das Wasser geben und\n    nach der Packungsanweisung al dente garen. Inzwischen die Spargelstreifen\n    mit {1} Spritzer Zitronensaft, ein wenig Olivenöl und {1} Prise Salz\n    anmachen. Die Pasta abseihen, dabei etwas Kochwasser auffangen. - Ab jetzt\n    muss alles ganz schnell gehen, damit das Essen richtig heißt auf den Tisch\n    kommt. Die noch dampfende Pasta mit der Krebsfleischmischung vermengen. Nach\n    Bedarf etwas von dem Nudelkochwasser hinzufügen, damit das Ganze schön\n    geschmeidig wird. Noch einmal probieren - fehlt vielleicht etwas\n    Zitronensaft, Salz oder Pfeffer? Die Pasta entweder auf einer großen\n    Servierplatte oder auf einzelnen Tellern anrichten. Den restlichen Chili und\n    das grob gehackte Fenchelgrün darüberstreuen, den Spargel darauf verteilen\n    und sofort servieren.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "us Besser kochen mit Jamie"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Linguine mit feinem Krebsfleisch und spargel",
+      "categoryId": 6
+    },
+    {
+      "id": 85,
+      "ingredients": "{400} g Spaghetti\n    {1.2} kg frische Venusmuscheln\n    {1} Knoblauchzehe\n    {1 / 2} Bund Petersilie\n    {50} g Salz\n    {7} EL Olivenöl\n    {0.1} l trockener Weißwein\n    {3} - {4} EL Tomaten-Basissoße",
+      "additional-ingredients": "",
+      "info": "",
+      "beverage": "Soave, gut gekühlt",
+      "instruction": "Venusmuscheln in fließendem Wasser waschen; jede einzelne Muschel\n    kontrollieren, ob sie fest verschlossen ist; offene Muscheln wegwerfen! -{4}{\" \"}\n    l Wasser mit Salz zum Kochen bringen. - Unterdessen Olivenöl in einer großen\n    Pfanne erhitzen, fein gehackte Knoblauchzehe darin auf kleiner Flamme {1}{\" \"}\n    Minuten lang rösten. - Zuerst die Muscheln, dann Weißwein und Tomatensoße\n    hinzufügen, zudecken und bei starker Hitze kochen lassen. - Spaghetti ins\n    kochende Wasser geben. Wenn sie al dente sind, abseihen und sofort zu den\n    Muscheln in der Pfanne geben; vorsichtig vermischen, bis die Soße durch die\n    Stärke der Pasta eine zähflüssige Konsistenz bekommt. - Auf vorgewärmten\n    Tellern anrichten, mit frisch gehackter Petersilie bestreuen und sofort\n    servieren.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning",
+          "text": "Basissoße ist ein extra Rezept"
+        }
+      ],
+      "name": "Spaghetti alle vongole (Venusmuscheln)",
+      "categoryId": 9
+    },
+    {
+      "id": 86,
+      "ingredients": "{100} g Zwiebeln\n    {50} g Olivenöl\n    {1} kg reife Tomaten",
+      "additional-ingredients": "Salz",
+      "info": "",
+      "beverage": "keine",
+      "instruction": "Olivenöl in einem Topf erhitzen, kleinwürfelig geschnittene Zwiebeln darin\n    auf kleiner Flamme {7} - {8} Minuten goldbraun rösten; danach die in ca. {1}{\" \"}\n    cm große Würfel geschnittenen Tomaten und {10} - {12} g Salz beigeben. -{30}\n    -40 Minuten kochen lassen, von Zeit zu Zeit umrühren; passieren und abkühlen\n    lassen.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Salsa di pomodoro base (Tomaten-Basissoße)",
+      "categoryId": 12
+    },
+    {
+      "id": 87,
+      "ingredients": "{4}\n    -5 reife Tomaten, möglichst verschiedene Farben, in Scheiben geschnitten\n    {1} Knoblauchzehe, geschält, in dünne Scheiben geschnitten\n    {1} frische rote Chilischote, halbiert, die Samen entfernt, gehackt\n    {1 / 2} kleine Zwiebel, geschält, in feine ringe geschnitten\n    {6} EL Balsamico-Essig\n    {1} kleines Bund Basilikum Olivenöl Meersalz und frisch gemahlener schwarzer\n    Pfeffer\n    {1} Petersfisch, etwa {600} g, küchenfertig vorbereitet\n    {1} großes Bio-Ei, verquirlt",
+      "additional-ingredients": "",
+      "info": "Für {2} Personen",
+      "beverage": "Neuseeländischer Weißwein - Pinot Gris",
+      "instruction": "Den Ofen auf {220}\n    °C vorheizen. Von einer Rolle Alufolie oder Pergamentpapier etwa {1} Meter\n    abreißen und in der Mitte falten, so dass Sie ein doppelt gelegtes Stück von{\" \"}\n    {50} cm Länge erhalten. Noch einmal in der Mitte falten und wieder öffnen --\n    die Folie oder das Papier sieht jetzt aus wie ein aufgeklapptes Buch. - Die\n    Tomaten, den Knoblauch, den Chili, die Zwiebel, den Balsamico-Essig und das\n    Basilikum mit {1} guten Schuss Olivenöl sowie Salz und Pfeffer in einer\n    Schüssel vermischen. Die Mischung auf die eine Hälfte der Folie oder des\n    Papiers geben und den Fisch darauflegen. - Die Ränder der Folie/des Papiers\n    mit etwas verschlagenem Ei bestreichen und die Folie oder das Papier über\n    dem Fisch zusammenfalten. Zwei der drei Ränder fest verschließen, indem Sie\n    die Kanten mehrmals umknicken. {1} Schuss Wasser zum Fisch geben, dann die\n    letzte Seite ebenfalls fest verschließen. Achten Sie darauf, dass es keine\n    Löcher oder Leckstellen gibt. - Das Päckchen auf ein flaches Backblech\n    legen, in den Ofen schieben und etwa {20} Minuten backen. - Den Fisch aus\n    dem Ofen nehmen und in geschlossenen Päckchen {5} Minuten ruhen lassen. Auf\n    einem sauberen Teller servieren und erst bei Tisch öffnen.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "ideal geeignet für Gäste -> ideal zum vorbereiten"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "unser Fisch war ein Steinbutt"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "In Folie gebackener Petersfisch mit Tomaten und Balsamico-Essig",
+      "categoryId": 11
+    },
+    {
+      "id": 88,
+      "ingredients": "{2} Knoblauchzehen\n    {1} Bund Petersilie\n    {1} Dose Thunfisch in Öl\n    {2} EL Olivenöl\n    {2} EL Butter\n    {400} g Spaghetti\n    {1 / 4}l Sahne (Süßrahm)\n    {2} Eigelbe\n    {3} EL geriebener Parmesankäse",
+      "additional-ingredients": "Salz Pfeffer",
+      "info": "Zubereitungszeit: {30} Minuten",
+      "beverage": "keine",
+      "instruction": "Den Knoblauch schälen, mit der Petersilie und dem Thunfisch zusammen fein\n    hacken. - In einer kleinen Pfanne das Olivenöl und {1} EL Butter erwärmen. -\n    Das Gehackte dazugeben, unter fleißigem Rühren bei milder Hitze sanft\n    köcheln lassen. - Gleichzeitig die Spaghetti al dente kochen. - Die\n    restliche Butter erwärmen, zusammen mit der Sahne, den Eigelben und dem\n    Parmesankäse in einem Schüsselchen verrühren. Mit Salz und frisch gemahlenen\n    Peffer herzhaft abschmecken. - Die Spaghetti gut abtropfen lassen. In einer\n    vorgewärmten Schüssel mit dem Thunfischsugo und dem Eierrahm mischen. -\n    Sofort servieren. Die Pfeffermühle bereitstellen.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Pasta al tonno (Spaghetti mit Thunfisch)",
+      "categoryId": 9
+    },
+    {
+      "id": 89,
+      "ingredients": "{500} g Kalbsnuss\n    {100} g gut durchwachsener roher Schinken in {4} Scheiben\n    {8} frische Salbeiblätter\n    {50} g Butter\n    {1} Tasse trockener Weißwein",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "Zubereitungszeit: {20} Minuten",
+      "beverage": "keine",
+      "instruction": "Das Kalbfleisch in {8} handtellergroße, gleichdicke Schnitzel schneiden,\n    diese leicht klopfen, mit Salz und Pfeffer würzen, mit je einer halben\n    Schinkenscheibe und einem Salbeiblatt belegen, zusammenklappen oder -rollen\n    und mit einem Zahnstocher feststecken. - In einer Pfanne, die so groß ist,\n    dass alle Schnitzel darin platz haben, {30} g Butter erhitzen, die Schnitzel\n    auf beiden Seiten goldgelb braten, herausnehmen, den Zahnstocher entfernen,\n    warm stellen. - Den Weißwein in die Pfanne gießen, bei guter Hitze fast ganz\n    einkochen lassen. Den Bratenfond mit einem Kochlöffel gut vom Boden lösen.\n    Die restliche Butter unterrühren. - Die Sauce über die Schnitzel geben und\n    sofort servieren.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Variante:Wenn Sie die Kalbschnitzel mit je einer Scheibe magerem Speck und\n    durchwachsenem Rohschinken belegen, zusammenrollen und in Schweineschmalz\n    braten, nennt sich das Gericht \"saltimbocca alla marchigiana\". Es kann mit\n    oder ohne Salbei zubereitet werden."
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Saltimbocca alla romana (Kalbsschnitzel mit Schinken und Salbei)",
+      "categoryId": 4
+    },
+    {
+      "id": 90,
+      "ingredients": "{4} Filetsteaks je {150} g{4} EL Öl\n    {30} g Butter\n    {1 / 2} Dose Pfirsische\n    {40} g blättrige Mandeln\n    {1} Bund Petersilie",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "{4} Personen, Zubereitungszeit; {25} Minuten",
+      "beverage": "keine",
+      "instruction": "Die Pfirsiche abtropfen lassen und würfeln. Zusammen mit den Mandeln in der\n    Fissler Victoria anbraten und dann auf die Heißhaltezone schieben. Etwas\n    Butter in die Bratzone geben und die Filetsteaks von beiden Seiten {3} bis{\" \"}\n    {4} Minuten braten. - Bei Fertigstellung der Steaks, diese auf die\n    Heißhaltezone geben, den Bratsatz mit {1 / 16} l Weißwein (lieblich)\n    ablöschen, {1 / 8}l Pfirsichsaft aus der Dose angießen und um die Hälfte\n    einkochen lassen. {1 / 8}l Sahne angießen und kurz vor Erreichen des\n    Siedepunktes mit {30} g Butterflocken montieren. Mandelsplitter und\n    Pfirsichwürfel dazugeben. Mit Petersilie garnieren.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "aus Fissler Bratfannen-Kochbuch;Pfirsische dürfen nicht warm sein"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Filetsteak California",
+      "categoryId": 18
+    },
+    {
+      "id": 91,
+      "ingredients": "{1 / 2} Grapefruit\n    {1 / 2} Avocado Saft von {1 / 2} Limette\n    {250} g Frischlachsfilet (ohne Haut und Gräten)\n    {3} EL Öl\n    {150} ml klare Suppe oder Fischfond\n    {1} gestrl. EL Speisestärke\n    {1} TL frischer Koriander (gehackt)",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "{2} Portionen, Zubereitung ca. {25} Minuten",
+      "beverage": "Die Mischung aus Lachs, Grapefruit und Limettensaft sowie Koriander lässt\n    die Suche nach enem passenden Wein zu einem wahren \"Eiertanz\" werden. Bevor\n    man aber zwölf Weine durchprobiert, sollte man vielleicht einmal im einzig\n    vielversprechenden Regal nachsehen, wo sich die Barrique-Chardonnays und\n    -Sauvignons befinden.",
+      "instruction": "Backrohr auf {50}\n    °C vorheizen. Grapefruit mit einem Messer so schälen, dass das Fruchtfleisch\n    freiliegt. Avocado schälen. Grapefruit und Avocado in ca. {1} cm große\n    Stücke schneiden und mit der Hälfte vom Limetensaft vermischen. - Lachs\n    halbieren, salzen, pfeffern und mit übrigem Limettensaft beträufeln. Öl\n    erhitzen, Lachsstücke darin bei mittlerer Hitze beidseitig braten. Fisch aus\n    der Pfanne heben und im vorgeheizten Rohr zugedeckt warm stellen. - Bratfett\n    abgießen. Bratrückstand mit Suppe oder Fischfond ablöschen und aufkochen.\n    Koriander sowie Grapefruit- und Avocadostücke einrühren und kurz ziehen\n    lassen. Lachsfilets mit der Sauce anrichten. Dazu passt Basmatireis.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Lachsfilet mit Koriander und Avocado-Grapefruit-Sauce",
+      "categoryId": 11
+    },
+    {
+      "id": 92,
+      "ingredients": "{1} kg Lachsforelle\n    {2} - {3} kg grobes Meersalz\n    {3} - {4} Eiklar\n    {2} EL Butter etwas kaltes Wasser\n    {1 / 2} Bund Petersilie\n    {1 / 2} Bund Dille\n    {1 / 2} Bund Estragon\n    {1 / 2} Bund Basilikum Papier für das Backblech",
+      "additional-ingredients": "",
+      "info": "Für {4} - {6} Portionen",
+      "beverage": "keine",
+      "instruction": "Die Lachsforelle ausnehmen und unter fließendem kalten Wasser abspülen;\n    danach mit Küchenpapier trockentupfen; Kräuter gut waschen und vorsichtig\n    trockentupfen; die Forelle innen und außen leicht pfeffern; Kräuter und die\n    Butter in den Fisch geben; das Meersalz mit dem zerschlagenen Eiklar und\n    etwas kaltem Wasser verrühren, sodass ein dicker Brei entsteht; etwas ruhen\n    lassen und nochmals durchrühren. - Das Backrohr auf {200} Grad vorheizen;\n    ein Backblech mit Backpapier auslegen; aus einem Drittel des Salzes\n    (entsprechend der Fischgröße) einen Sockel auf das Backpapier streichen; die\n    Forelle auf das Salz legen; mit der übrigen Salzmasse den Fisch so\n    umkleiden, dass er komplett bedeckt ist; im vorgeheizten Backrohr etwa {40}{\" \"}\n    Minuten backen; im ausgeschalteten Rohr noch {10} Minuten ruhen lassen;\n    danach das Salz vorsichtig abschlagen oder anschneiden und abbrechen; die\n    Haut lösen und den Fisch filetieren. Portionen auf vorgewärmten Tellern mit\n    Erdäpfeln anrichten und leicht mit Olivenöl beträufeln.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Rezept von Fischzucht Igler"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Lachsforelle im Salzmantel",
+      "categoryId": 11
+    },
+    {
+      "id": 93,
+      "ingredients": "Grundrezept Risotto\n{100} g Butter + {1} Extrastückchen\n{4} große Handvoll frische Wildpilze (Pfifferlinge, Steinpilze, Herbsttrompeten, Austernpilze), geputzt\nMeersalz\nfrisch gemahlener Pfeffer\n{1} EL frische Thymianblätter\n{2} Knoblauchzehen, geschält, fein gehackt\n{700} ml heiße Gemüsebrühe oder Geflügelfond\n{1} - {2} Handvoll frisch geriebener Parmesan + Parmesan am Stück zum Servieren\n{1} Handvoll glatte Petersilie, die Blätter abgezupft und gehackt\nSaft von {1} Zitrone\nOlivenöl extra vergine",
+      "additional-ingredients": "",
+      "info": "Für {8} Personen",
+      "beverage": "Italienischer Rotwein - Dolcetto",
+      "instruction": "Bereiten Sie zuerst den Grundrisotto zu und stellen Sie ihn beiseite. Nun machen Sie sich an die Pilze: Eine große Pfanne erhitzen und das Extrastückchen Butter hineingeben. Wenn die Butter schäumt, die Pilze einfüllen. Leicht salzen und pfeffern, kurz durchschwenken und {1} Minute braten. Dann den Thymian und den Knoblauch hinzufügen, das Ganze nochmals kurz durchschwenken und weitere {2} Minuten braten, bis die Pilze weich sind. Mit Salz und Pfeffer abschmecken.\n-\nDie Hälfte der Brühe/des Fonds in einen großen Topf gießen, den Risotto dazugeben und unter ständigem Rühren bei mittlerer Hitze langsam zum Kochen bringen. Die Temperatur verringern, die Pilzmischung untermengen und sanft garen, bis der Reis fast die gesamte Flüssigkeit aufgenommen hat. Schöpflöffelweise so lange restliche Brühe/Fond einrühren, bis der Reis gar ist. Eventuell brauchen Sie nicht mehr die gesamte Brühe/Font. Prüfen Sie zwischendurch immer wieder den Gargrad, damit der Reis am Ende genau richtig ist. Er darf auf keinen Fall zerkochen, sondern soll noch etwas Biss und Form haben und gleichzeitig cremig-zart sein. Insgesamt solle die Konsistenz des Risotto etwas sämiger sein, als Sie vermutlich gedacht hätten.\n-\nDen Topf vom Herd nehmen und die Butter, den geriebenen Parmesan, die Petersilie und den Zitronensaft unterrühren. Mit Salz und Pfeffer abschmecken. Einen Deckel auflegen und den Risotto noch {1} Minuten ruhen lassen. Den Topf in die Tischmitte stellen oder den Risotto auf Einzeltellern anrichten. Zuletzt noch mit etwas Olivenöl extra vergine beträufeln und den Parmesan zum reiben dazu reichen.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "aus: besser kochen mit Jamie; Das Risotto schmeckt noch intensiver nach Pilzen, wenn man {1} Handvoll getrocknete Steinpilze in die Brühe oder den Fond gibt"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Risotto mit Pilzen",
+      "categoryId": 3
+    },
+    {
+      "id": 94,
+      "ingredients": "{1} l Gemüsebrühe oder Geflügelfond\n    {2} EL Olivenöl\n    {1} EL Butter\n    {1} große Zwiebel, geschält, fein gewürfelt\n    {4} - {5} Stangen Staudensellerie, geputzt, fein gewürfelt\n    {600} g Risotto-Reis\n    {250} ml weißer Wermut oder trockener Weißwein",
+      "additional-ingredients": "",
+      "info": "Für {8} Personen",
+      "beverage": "keine",
+      "instruction": "Ein großes eingeöltes Tablett oder Blech bereitstellen. Die Brühe oder den\n    Fond zum Kochen bringen. In einem zweiten großen Topf das Olivenöl und die\n    Butter erhitzen. Die Zwiebel und den Staudensellerie darin etwa {15} Minuten\n    bei schwacher Hitzr glasig schwitzen, ohne dass sie Farbe annehmen. Den Reis\n    zugeben (das zischelt!) und die Temperatur erhöhen. Ständig rühren, damit\n    nichts ansetzt. - Rasch den Wermut oder Weißwein zugießen und ständig\n    weiterrühren, bis die Alkoholwolke verflogen ist und der Reis schön\n    aromatisch duftet. - Nun schöpflöffelweise heiße Brühe/Fond zugißen, dabei\n    ständig rühren und die nächste Portion erst dazugeben, wenn der Reis die\n    Flüssigkeit vollständig aufgenommen hat. Die Temperatur verringern, damit\n    der Reis nicht zu schnell gart, sonst ist er au0en schön weich, im Kern aber\n    noch roh (zu langsam sollte er allerdings auch nicht garen, sonder endet er\n    als Reispudding!). Schöpflöffel für Schöpflöffel weitere Brühe/Fond\n    zugießen, bis er alles restlos aufgesogen hat. Das dauert etwa {14} is {15}{\" \"}\n    Minuten. In diesem Stadium beginnt der Reis langsam weich zu werden, hat\n    aber immer noch spürbar Biss. - Den teilgegarten Reis auf das wartende\n    Tablett oder Blech füllen und gleichmäßig etwa {2.5} cm dick verstreichen.\n    An einem kühlen Ort erkalten lassen. Sobald der Reis ganz abgekühlt ist, mit\n    einem Spatel vorsichtg vom Tablett oder Blech lösen und in ein\n    verschließbares Gefäß füllen. Bis zum Gebrauch im Kühlschrank aufbewahren.\n    Der Reis hält sich so einige Tage.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Grundrezept für Risotto",
+      "categoryId": 3
+    },
+    {
+      "id": 95,
+      "ingredients": "{600} g Hummer Gleisch ausgelöst\n160 g Schalotten\n{160} g Möhren\n{240} ml Gemüsebrühe\n{320} ml Sahne\n{280} g Spaghetti \nTrüffelöl\n{60} g Butter\n{8} cl Cognac",
+      "additional-ingredients": "Salz, Pfeffer, Muskatnuss",
+      "info": "",
+      "beverage": "keine",
+      "instruction": "Das ausgelöste Hummerfleisch bereit stellen oder bereits getöteten Hummer auslösen. Das Hummerfleisch schön portionieren und zum späteren sautieren und flambieren bereit stellen.\n-\nSchalotte halbieren, schälen und feinwürfelig schneiden. Karotte waschen, schälen, feinwürfelig schneiden. Gemüse in Butter anschwitzen, mit Weißwein und Gemüsebrühe ablöschen und aufkochen. Die Sahne in die kochende Flüssigkeit langsam einlaufen lassen, die Sauce etwa um ein Drittel einkochen lassen oder mit etwas geriebener Kartoffel binden.\n-\nDie Spaghetti in ausreichend Wasser bissfest kochen, anschließend abschütten.\n-\nDie Sauce durch ein Sieb passieren oder mit dem Gemüse belassen, kräftig mit Salz, Pfeffer und Muskat abschmecken. Die nicht mehr kochende Sauce mit Trüffelöl verfeinern.\n-\nDas vorbereitete Hummerfleisch in der heißen Butter sautieren, mit Salz und Pfeffer würzen und mit dem Cognac flambieren.\n-\nDie Spaghetti sofort nach dem Absmchütten gut trocken schütteln, in einer Pfanne in der vorbereiteten Sauce schwenken und anrichten. Den flamierten Humer auf die Spaghetti anrichten und servieren.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Hummer",
+      "categoryId": 16
+    },
+    {
+      "id": 96,
+      "ingredients": "{1.4} kg rindfleisch (aus Schulter oder Keule)\n    {2} kleine Karotten\n    {3} Stangen Staudensellerie\n    {2} Zwiebeln\n    {100} g durchwachsener Speck\n    {10} Tomaten, getrocknet, fein gewürfelt\n    {10} Oliven, trocken eingelegt, schwarz, entkernt und fein gewürfelt\n    {300} ml Wein, rot, trocken (z. B. Sangiovese)\n    {500} ml Gemüsebrühe oder Geflügelbrühe\n    {2} Zweige Rosmarin\n    {2} Zweige Thymian\n    {1} Lorbeerblatt\n    {2} Knoblauchzehen, geschält\n    {1 / 2} TL Pfeffer, ganz, grob im Mörser gestoßen\n    {5} Piment, ganz, grob im Mörser gestoßen",
+      "additional-ingredients": "salz, Pfeffer",
+      "info": "Für {4} Portionen, Arbeitszeit: ca. {45} Minuten",
+      "beverage": "keine",
+      "instruction": "Ofen auf ca. {180} Grad vorheizen. Karotten, Sellerie, Zwiebeln und Speck\n    fein würfeln. - Das Fleisch mit wenig Salz und Pfeffer würzen und in einem\n    Bräter mit etwas Öl rundherum gut anbraten. Herausnehmen und das Gemüse\n    darin anrösten. Den Speck, die Tomaten und die Oliven dazugeben und kurz\n    mitbraten. Das Fleisch wieder zugeben und mit einem Schuss Rotwein\n    ablöschen. Wenn der Rotwein sirupartig einreduziert ist, wieder etwas\n    nachgießen. Wiederholen, bis der Rotwein aufgebraucht st. Dann mit der Brühe\n    aufgießen und die Gewürze zugeben. Wenn überhaupt nur wenig salzen, da der\n    Speck und die getrockneten Tomaten bereits salzig sind. - Den Bräter\n    verschließen und im Ofen mind. {3} Std. bei {180} Grad schmoren lassen bis\n    der Braten schön mürb ist. Fleisch herausnehmen und warmhalten. Die\n    Rosmarin- und Thymianzweige und das Lorbeerblatt aus der Sauce fischen. Die\n    Sauce evtl. noch etwas einreduzieren und evtl. mit etwas Salz würzen. Wer\n    die Sauce gebunden mag, kann entweder mit Speisestärke binden oder einen\n    Teil des Gemüses pürieren. - Das Fleisch in Scheiben schneiden und mit der\n    Sauce und breiten Bandnudeln servieren.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "Fleisch so zart, dass es zerfällt"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Sauce nicht pürieren"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Mediterraner Rinderbraten mit getrockneten Tomaten und schwarzen Oliven",
+      "categoryId": 1
+    },
+    {
+      "id": 97,
+      "ingredients": "{1} kg Miesmuscheln\n    {125} ml Olivenöl\n    {4} Knoblauchzehen\n    {1} kg Romaten\n    {3} EL Petersilie, gehackt\n    {600} g Spaghetii",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "Für {4} Portionen, Arbeitszeit: {20} Min.",
+      "beverage": "keine",
+      "instruction": "Muscheln waschen. In einer Pfanne {3} EL Olivenöl erhitzen. Muscheln\n    hineingeben. Solange in einer zugedeckten Pfanne erhitzen, bis sich die\n    Muscheln öffnen. Muschelfleisch mit scharfem Messer herausnehmen,\n    Muschelsaft aufheben. Das restliche Olivenöl in einem Topf erhitzen.\n    Zerdrückte Knoblauchzehen hineingeben. Muschelsaft und das Fleisch\n    hinzugeben. Das Ganze etwas einkochen lassen. - Die enthäuteten, klein\n    geschnittenen Tomaten, Salz und Pfeffer dazugeben. Etwa {10} Minuten kochen\n    lassen. Petersilie unterrühren. Die al dente gekochten, gut abgetropften\n    Nudeln mit der Hälfte der Sauce vermischen. Rest der sauce dazureichen.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Spaghetti mit Miesmuscheln",
+      "categoryId": 9
+    },
+    {
+      "id": 98,
+      "ingredients": "{2} Okopuse mittlerer Größe (insgesamt ca. {1} kg)\n{3} rote Zwiebel\n{3} Zehen Knoblauch\n{2} kleine Dosen geschälte Tomaten\n{2} Karotten\nOregano\n{3} Lorbeerblätter\n{3} Kügelchen Bachari (Piment)\n{2} EL Essig \n{1/2} Tasse Olivenöl\n{1/2} Tasse Weißwein\nSalz\n{2} EL Zucker nach Geschmack\n{500} g Spaghetti (für {3} Personen)",
+      "additional-ingredients": "",
+      "info": "Für {3} Personen, Garzeit: {1 1/2} - {2} Std.",
+      "beverage": "keine",
+      "instruction": "Oktopuse waschen und {1} - {2} Std. zum trocknen aufhängen. Die Arme in ca {1 1/2} cm große Stücke schneiden. Die Kopftube in Streifen schneiden; das Mittelteil mit den Schnabel entfernen.\n-\nDie geschnittenen Teile ohne alles in einen heißen Topf geben. Der Tintenfisch zieht sofort viel Wasser. Im eigenen Sud mit den {2} EL mildem Essig so lange bei starker Hitze kochen, bis alles Wassser verdampft ist.\n-\nJetzt das Olivenöl, die Zwiebeln, Knoblauch und die in kleine Würfel geschnittenen Karotten zugeben und leicht andünsten.\n-\nWeißwein, in Würfel geschnittenen Tomaten und von einer Dose den Saft, Gewürze und Salz zugeben und gut {1} Std. leicht köcheln bis der Oktopus schön weich ist.\n-\nIn der Zwischenzeit die Spaghetii kochen (wenn man sie bekommt, die etwas flachen Spaghetti schmecken besonders gut dazu). Mit Zucker (wegen der Tomaten) und Salz abschmecken.\n-\nDie Nudel abgießen und abschrecken und in den Topf zurückgeben. Etwas Olivenöl zugeben, damit die Nudeln nicht anliegen.\nZum Schluss das Oktopusragout mit den Spaghetti im Topf mischen. Nachdem alles gut durchgewärmt ist, servieren.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Spaghetti mit Oktopus",
+      "categoryId": 9
+    },
+    {
+      "id": 99,
+      "ingredients": "{200} g Sauerrahm (20%)\n    {2} EL Tafelmeerrettich\n    {2} EL fein gehackte frische glatte Petersilie\n    {2} TL Dijon-Senf\n    {2} TL Worcestersauce\n    {1 / 2} TL grobes Meeressalz\n    {1 / 4} TL frisch gemahlender schwarzer Pfeffer",
+      "additional-ingredients": "",
+      "info": "",
+      "beverage": "keine",
+      "instruction": "In einer Schüssel die Zutaten gründlich vermischen. Vor dem Servieren\n    abgedeckt {30} Min. kalt stellen.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Meerrettichsauce",
+      "categoryId": 12
+    },
+    {
+      "id": 100,
+      "ingredients": "{125} ml Mayonnaise\n    {2} EL dunkle Olivenpaste (Tapenade)\n    {1} EL frisch gepresster Zitronensaft\n    {1} TL fein gehackte frische Rosmarinblätter\n    {1 / 4} TL frisch gemahlender schwarzer Pfeffer",
+      "additional-ingredients": "",
+      "info": "",
+      "beverage": "keine",
+      "instruction": "In einer Schüssel die Zutaten glatt rühren. Vor dem Servieren abgedeckt {30}{\" \"}\n    Min. kalt stellen.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Oliven-Mayonnaise",
+      "categoryId": 12
+    },
+    {
+      "id": 101,
+      "ingredients": "{800} g festkochende Kartoffeln\n    {3} EL Olivenöl Salz\n    {1}\n    -2 TL Öl\n    {2} Porterhouse-Steaks (a ca. {650}\n    g) schwarzer Pfeffer aus der Mühle\n    {1} EL braune Butter\n    {1} Knoblauchzehe (in Scheiben)\n    {5} Zweige Thymian mildes Chilisalz\n    {100} ml Ananassaft\n    {100} ml Espresso\n    {300} g Tomatenketchup\n    {1} EL Honig\n    {1} Tl geräuchertes Paprikapulver (Piment La Vera picante)\n    {10} g Rauchsalz, aus er Mühle Chiliflocken\n    {1} Msp. abgeriebene, unbehandelte Orangenschale\n    {1} Knoblauchzehe (in Scheiben)",
+      "additional-ingredients": "",
+      "info": "Für {4} Personen",
+      "beverage": "keine",
+      "instruction": "Für die Country-Kartoffeln den Backofen auf {180}\n    °C vorheizen. Die Kartoffeln schälen, waschen und in etwa {0.5} cm große\n    Würfel schneiden. die Kartoffelwürfel auf ein mit Backpapier ausgelegtes\n    Backblech geben, das Olivenöl darüber träufeln, salzen und mit den\n    Kartoffelwürfeln mischen.Gleichmäßig auf dem Blech verteilen und im Ofen auf\n    der mittleren Schiene etwa {35} Minuten goldbraun braten. Herausnehmen und\n    warm halten. - Für die Steaks die Backofentemperatur auf {100}\n    °C herunterschalten, auf die mittlere Schiene ein Ofengitter und darunter\n    ein Abtropfblech schieben. Eine Pfanne erhitzen, mit einem Pinsel das Öl\n    darin verteilen, Steaks hineinlegen und rundum anbraten. Auf das Ofengitter\n    legen und die Steaks je nach Dicke und Knochenanteil {50} bis {60} Munuten\n    rosa durchziehen lassen.Anschließend salzen und pfeffern. - Für die\n    Barbecuesauce den Ananassaft und den Espresso auf ein Viertel einköcheln\n    lassen. Das Ketchup und den Honig dazugeben und glattrühren. Die Sauce mit\n    Papriakpulver, Rauchsalz, Chiliflocken und Orangenschale würzen und nochmals\n    erwärmen. Den Knoblauch dazugeben und einige Minuten ziehen lassen, dann\n    wieder entfernen. Kurz vor dem Servieren die braune Butter in einer Pfanne\n    erhitzen und die Kartoffelwürfel darin bei mittlerer Hitze schwenken. Den\n    Knoblauch und den Thymian dazugeben und die County-Kartoffeln mit Chilisalz\n    würzen. - Anrichten: Die Porterhouse-Steaks vom Knochen schneiden, schräg in\n    dünne Tranchen schneiden und gleichmäßig auf vier vorgewärmte Teller\n    verteilen. Die Kartoffeln daneben anrichten und die Barbecuesauce daneben\n    träufeln.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "im Freien gegrillt"
+        },
+        {
+          "type": "warning",
+          "text": "Sauce mit weniger Ketchup machen"
+        }
+      ],
+      "name": "Porterhouse-Steak",
+      "categoryId": 18
+    },
+    {
+      "id": 102,
+      "ingredients": "{500} g tiefgekühlter Tintenfisch\n    {1} Bund Suppengrün\n    {1 / 8} l Wasser\n    {1 / 8} l trockener Weißwein (ersatzweise Gemüsebrühe)\n    {1 / 2} Päckchen Fischgewürz\n    {12} Hummerkrabbenschwänze (in der Schale)\n    {1} TL Safranfäden\n    {1} Huhn (etwa {1.5} kg)\n    {300} g Schweinefleisch (Schulter)\n    {1} Zwiebel\n    {2} Knoblauchzehen\n    {1} grüne Paprikaschote\n    {200} g Tomaten\n    {2} EL Olivenöl\n    {600} ml Sud von den Meeresfrüchten und Hühnerbrühe gemischt\n    {300} g Langkornreis\n    {150} g tiefgekühlte Erbsen salz weißer Pfeffer, frisch gemahlen\n    {1 / 2} Bund Petersilie",
+      "additional-ingredients": "",
+      "info": "Für {6} Personen, Zubereitunszeit:11/2 Stunden",
+      "beverage": "keine",
+      "instruction": "Die Tintenfische auftauen lassen. Das Suppengrün waschen, putzen und grob\n    zerkleinern. Mit dem Wasser, dem Wein und dem Fischgewürz in einem großen\n    Topf aufkochen. Die Tintenfische darin zugedeckt bei schwacher Hitze etwa{\" \"}\n    {3} Minuten ziehen lassen, herausnehmen und auf einem Teller beiseite\n    stellen. - Den Sud erneut aufkochen, die Hummerkrabbenschwänze zugedeckt\n    darin etwa {5} Minuten ziehen lassen und ebenfalls wieder herausnehmen. -\n    Ein Sieb mit einem Küchentuch auslesen. Den Sud durchsieben, alle festen\n    Teile wegwerfen. Die Safranfäden zwischen den Fingern zerreiben und in den\n    Sud geben. - Die Tintenfische in etwa {1} cm breite Stücke schneiden. Das\n    Huhn in {12} Teile zerlegen. Das Schweinefleisch in etwa {1} cm große Würfel\n    schneiden. Die Zwiebel und den Knoblauch fein hacken. Die Paprikaschote\n    waschen, vierteln, putzen und in fingerbreite Streifen schneiden. Die\n    Tomaten häuten, würfeln. - Das Öl in eienr Pfanne erhitzen. Die Hühnerstücke\n    und das Schweinefleisch darin portionsweise rundherum bei mittlerer Hitze\n    braun anbraten; das dauert insgesamt etwa {30} Minuten. Das gebratene\n    Fleisch in die Fettpfanne des Backofens legen. - Das ausgebratene Fett bis\n    auf einen dünnen Fulm aus der Pfanne gießen. Die Zwiebeln und den Knoblauch\n    in der Pfanne bei schwacher Hitze etwa {1} Minute braten. Den Sud mit der\n    Hühnerbrühe dazugießen. Den Bratfondlösen und über dem Fleisch in der\n    Fettpfanne verteilen. Den Reis darüber streuen. - Den Tintentisch, die\n    Hummerkrabbenschwänze, die Paprikaschoten, doe Tomaten und die Erbsen auf\n    der Paella verteilen. Alles mit Salz und reichlich Pfeffer würzen. - Die\n    Fettpfanne mit Alufolie verschließen und in den kalten Backofen (Mitte)\n    schieben. Den Ofen auf {180}\n    °C (Umluft {160}\n    °C, Gas Stufe {3}) schalten. Die Paella etwa {40} Minuten garen. Die Folie\n    entfernen und die Paella weitere {20}\n    -30 Minuten garen, bis der Reis körnig und das Fleisch weich ist. die\n    Petersilie fein hacken und darüber streuen. Dazu passen Baguette und Salat.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Paella",
+      "categoryId": 16
+    },
+    {
+      "id": 103,
+      "ingredients": "{12} dag Erdäpfel, gekocht und in dünne Scheiben geschnitten\n    {1} Teelöffel Pflanzenmargarine\n    {2} Eier\n    {1} EL Mineralwasser Muskat nach Geschmack\n    {1} EL Petersilie, gehackt",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "{1} Portion",
+      "beverage": "keine",
+      "instruction": "In beschichteter Pfanne Erdäpfel in zerlassener Margarine anbraten. - In\n    einem kleinen Topf Eier mit Mineralwasser, Salz, Pfeffer und Muskat gut\n    versprudeln, über die Erdäpfel gießen und stocken lassen. - Mit Petersilie\n    bestreut servieren.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Erdäpfelomlette",
+      "categoryId": 19
+    },
+    {
+      "id": 104,
+      "ingredients": "{12} dag Erdäpfel, geschält, gerieben\n    {1} Ei\n    {1} Knoblauchzehe, zerdrückt\n    {1} EL Mehl\n    {4.5} dag Extrawurst, in kleine Stücke geschnitten\n    {2} TL Pflanzenöl",
+      "additional-ingredients": "Salz,Pfeffer nach Geschmack",
+      "info": "Für {1} Person",
+      "beverage": "keine",
+      "instruction": "In einer Schüssel Erdäpfel, Ei, Knoblauch, Salz und Pfeffer gut verrühren,\n    Mehl und Wurst beimengen. - In beschichteter Pfanne in Öl beidseitig\n    goldgelb backen.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Kartoffelpuffer",
+      "categoryId": 19
+    },
+    {
+      "id": 105,
+      "ingredients": "{18} dag Linsen (aus der Dose), gekocht\n    {1} TL Pflanzenmargarine\n    {1} EL Paradeismark\n    {1} EL Petersilie, gehackt",
+      "additional-ingredients": "Salz,Pfeffer, Zitronensaft, Süßstoff nach Geschmack",
+      "info": "Für {1} Person",
+      "beverage": "keine",
+      "instruction": "Linsen gut abtropfen lassen, im Mixer pürieren. - In einer Kasserolle in\n    zerlassener Margarine Linsenpüree erwärmen, mit Salz, Pfeffer, Zitronensaft\n    und Süßstoff abschmecken, Paradeismark beimischen und mit Petersilie\n    bestreuen.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Linsenpüree",
+      "categoryId": 19
+    },
+    {
+      "id": 106,
+      "ingredients": "{5} dag Zwiebel, fein gehackt\n{1} TL Pflanzenmargarine\n{9} dag grüne Erbsen\n{4.5} dag Schinken, in Streifen geschnitten",
+      "additional-ingredients": "Salz, Pfeffer nach Geschmack",
+      "info": "Für {1} Person",
+      "beverage": "keine",
+      "instruction": "In einer Kasserolle Zwiebel in zerlassener Margarine glasig dünsten, Erbsen zugeben, salzen und pfeffern, in wenig Wasser zugedeckt ca. {10} Minuten dünsten.\n-\nSchinkenstreifen zugeben und alles nochmals durchrösten.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Erbsen italienische Art",
+      "categoryId": 19
+    },
+    {
+      "id": 107,
+      "ingredients": "{100} g Erdbeeren\n    {200} ml Vollmilch\n    {50} g Magerquark\n    {30} g Honig",
+      "additional-ingredients": "",
+      "info": "Für {2} Personen",
+      "beverage": "keine",
+      "instruction": "Alle Zutaten im Mixer oder mit dem Pürierstab pürieren. Gut gekühlt trinken.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Rezept von Imkerei Ing. Albert Scheucher"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Erdbeer-Milch-Shake",
+      "categoryId": 20
+    },
+    {
+      "id": 108,
+      "ingredients": "{2} reife Bananen Saft einer halben Zitrone\n    {50} g Honig\n    {1} Prise Vanillemark\n    {1 / 2}l Sahne",
+      "additional-ingredients": "",
+      "info": "",
+      "beverage": "keine",
+      "instruction": "Die Bananen zusammen mit dem Zitronensaft, Honig und Vanille im Mixer\n    pürieren. Sahne steif schlagen und unter die Bananenmasse heben. In eine\n    flache Form füllen und {2} Stunden in den Gefrierschrank stellen oder in\n    einer Eismaschine bereiten.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Rezept von Imkerei Ing. Albert Scheucher"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Bananeneis",
+      "categoryId": 21
+    },
+    {
+      "id": 109,
+      "ingredients": "{50} g Nusskerne, gerieben\n    {70} g Hafermark o. Hafermehl o. Haferflocken\n    {50} g Butter\n    {30} g Koksette\n    {4} EL Blütenhonig\n    {1} Pkg. Naturvanillezucker\n    {2} EL Kakaopulver",
+      "additional-ingredients": "",
+      "info": "\"Bärenstark\" Jausenrezepte für Kleine und Große (Ernährungsprogramm VS\n    St.Veit)",
+      "beverage": "keine",
+      "instruction": "Nüsse, Hafermark, Vanillezucker {5} Min. in der Pfanne rösten. Butter und\n    Honig schmelzen lassen, Haferflocken untermischen. Abkühlen. Aus der\n    handwarmen Masse Kugeln formen, in Kokosette wälzen.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "Mit Haferflocken 1A"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Knabberkugeln",
+      "categoryId": 21
+    },
+    {
+      "id": 110,
+      "ingredients": "{400} g Bananen, mit Gabel zerdrückt\n    {100} g Topfen\n    {3} EL Kako\n    {150} ml Schlagobers\n    {1} Pkg Naturvanille\n    {4} EL geröstete Kokosflocken",
+      "additional-ingredients": "",
+      "info": "\"Bärenstark\" Jausenrezepte für Kleine und Große (Ernährungsprogramm VS\n    St.Veit)",
+      "beverage": "keine",
+      "instruction": "Alles zusammenmischen.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Statt Schlagobers Rama verwenden"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Knabberkugeln 2",
+      "categoryId": 21
+    },
+    {
+      "id": 111,
+      "ingredients": "{200} g gemahlende Mandeln\n    {100} g Rosinen\n    {100} g Trockenmarillen\n    {100} g Blütenhongig\n    {4} - {5} EL Orangensaft Kokosette",
+      "additional-ingredients": "",
+      "info": "\"Bärenstark\" Jausenrezepte für Kleine und Große (Ernährungsprogramm VS\n    St.Veit)",
+      "beverage": "keine",
+      "instruction": "Die Rosinen und Marillen fein hacken. Die Mandeln mit Honig und Orangensaft\n    verrühren und mit den Rosinen und Marillen verkneten. Kleine Kugeln formen\n    und im Kokosette wälzen.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "schnelle Zubereitung"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Masse für ca. {40} Stück mittelgroße Kugeln = {2} Teller"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Pausenkugeln",
+      "categoryId": 21
+    },
+    {
+      "id": 112,
+      "ingredients": "Topfeln\nWal- oder Haselnüsse\nSauerrahm\nNaturvanille\nVollkornkekse oder Vollkornbrot",
+      "additional-ingredients": "Honig",
+      "info": "",
+      "beverage": "keine",
+      "instruction": "Topfen und geriebene Wal- oder Haselnüsse verrühren, Honig beigeben. Sauerrahm einrühren und mit Naturvanille abschmecken. Zwischen Vollkornkekse oder Vollkornbrot streichen.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Pausensnack",
+      "categoryId": 21
+    },
+    {
+      "id": 113,
+      "ingredients": "{25} dag Topfen\n    {4} EL echtes Kürbiskernöl\n    {1} bis {2} Zehen Knoblauch",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "Aus: Lesereise Stmk (Sachkundeunterricht {4}\n    Kl.VS)",
+      "beverage": "keine",
+      "instruction": "Alle Zutaten gut verrühren und auf einer Scheibe Bauernbrot genießen.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "schnell zubereitet"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Kürbiskernaufstrich",
+      "categoryId": 22
+    },
+    {
+      "id": 114,
+      "ingredients": "{2} Becher Stainzer Speisetopfen\n    {1} Becher Sauerrahm\n    {3} Knoblauchzehen, fein gepresst\n    {2} EL Paprikpulver, edelsüß",
+      "additional-ingredients": "salz,Pfeffer",
+      "info": "Für {4} Portionen, Zubereitung {10} Minuten",
+      "beverage": "keine",
+      "instruction": "Für den pikanten Topfen-Dip den Speisetopfen, Sauerrahm, Knoblauch und\n    Paprikapulver glatt rühren. - Mit Salz und Pfeffer abschmecken. - Reichen\n    Sie den pikanten Topfen-Dip zu dunkelm Brot, Salzgebäck oder zu\n    Gemüsesticks.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "schmeckt würzig wegen Knoblauch"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Pikanter Topfen-Dip",
+      "categoryId": 22
+    },
+    {
+      "id": 115,
+      "ingredients": "{2} reife Avocados\n    {1} kleine Zwiebel\n    {1} Bund Petersilie\n    {1} Knoblauchzehe etwas Zitronensaft schwarzer Pfeffer, frisch gemahlen Salz",
+      "additional-ingredients": "",
+      "info": "Zubereitungszeit: ca. {15} Minuten",
+      "beverage": "keine",
+      "instruction": "Die Avocados halbieren und entsteinen. Das Fruchtfleisch mit einem Löffel\n    aus der Schale lösen und mit einer Gabel zerdrücken. Die Zwiebel schälen und\n    feinhacken. Die Petersilie waschen, trockentupfen, von den groben Stenglen\n    befreien und feinhacken. Die Knoblauchzehe schälen und durch die Presse\n    drücken. - Alle Zutaten miteinander vermengen. - Den Avocadoaufstrich mit\n    dem Zitronensaft, Pfeffer und Salz pikant abschmecken.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "Tipp:Ob die Avocados reif sind, können Sie prüfen, indem Sie mit der\n    Handfläche (nicht mit der Fingerspitze) leicht gegen die Früchte drücken.\n    Wenn sie nacgeben, sind sie essreif. Harte Avocados müssen noch einige Zeit\n    nachreifen."
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Variante: Rühren Sie zur Abwechslung einmal {50} g fein zerpflücktes\n    Thunfischfleisch (aus der Dose) oder {62.5} g Doppelrahm-Fischkäse und {1}{\" \"}\n    EL Creme fraiche unter die Avocadomasse."
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Avocado-Aufstrich",
+      "categoryId": 22
+    },
+    {
+      "id": 116,
+      "ingredients": "{500} g Stainzer Speisetopfen\n    {2} El Olivenöl\n    {1 / 2} Bund Petersilie\n    {1 / 2} Bund Schnittlauch\n    {1 / 2} Bund Dill\n    {1} Knoblauchzehe, fein gehackt\n    {1} EL Chilipulver",
+      "additional-ingredients": "Salz, Pfeffer aus der Mühle, Petersilie zum Garnieren",
+      "info": "Für {4} Portionen, Zubereitung {15} Minuten",
+      "beverage": "keine",
+      "instruction": "Die Kräuter waschen, gut abtropfen lassen und fein hacken. Die fein\n    gehackten Kräuter und den Knoblauch in eine Schüssel geben, den Speisetopfen\n    und die restliche Zutaten dazu geben. Alles sorgfälig vermischen und mit\n    Salz und Pfeffer aus der Mühle abschmecken. - Reichen Sie frisches\n    Schwarzbrot zu diesem köstlichen Kräuter-Topfen-Aufstrich.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Kräuter-Topfen Aufstrich",
+      "categoryId": 22
+    },
+    {
+      "id": 117,
+      "ingredients": "{1} Bund Radieschen\n    {1} Frühlingszwiebel\n    {1 / 2} Bund Schnittlauch\n    {200} g Magerquark\n    {2} EL Sauerrahm\n    {1} EL Zitronensaft",
+      "additional-ingredients": "Salz, Pfeffer aus der Mühle",
+      "info": "Für {4} Portionen",
+      "beverage": "keine",
+      "instruction": "Radieschen raspeln oder in kleine Würfel schneiden. Zwiebel und Schnittlauch\n    in feine Ringe schneiden. - Quark und Sauerrahm verrühren, Gemüse und\n    Kräuter untermischen. Mit Salz, Zitronensaft und Pfeffer abschmecken.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "wenig Kalorien"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Rezept vom Reformhaus Andritz"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Frühlingsaufstrich",
+      "categoryId": 22
+    },
+    {
+      "id": 118,
+      "ingredients": "{250} g Magerquark\n    {2} EL Joghurt\n    {2} Bund gemischt Kräuter (z.B Petersilie, Zitronenmelisse, Dill, Estragon,\n    Brunnenkresse, Basilikum, Schnittlauch)\n    {1} Knoblauchzehe\n    {1} TL Senf",
+      "additional-ingredients": "Salz, Pfeffer aus der Mühle",
+      "info": "Für {4} Portionen",
+      "beverage": "keine",
+      "instruction": "Magerquark und Joghurt miteinandern verrrühren. Die Kräuter waschen,\n    trockenschütteln und fein hacken, dann untermischen. - Aufstrich mit\n    zerdrücktem Knoblauch, Senf, Salz und Pfeffer abschmecken.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "gesund"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "von Reformhaus Andritz"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Kräuteraufstrich",
+      "categoryId": 22
+    },
+    {
+      "id": 119,
+      "ingredients": "{80} g schwarze Oliven\n    {60} g getrocknete Paradeiser\n    {300} g Ricotta\n    {1} EL Oregano (gehackt)\n    {1} Ciabatta",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "{4} Portionen, Zubereitung ca. {15} Minuten",
+      "beverage": "Junger, trockener, mittelgewichtiger Weißburgunder aus dem Weinbaugebiet\n    Neusiedlersee passt sich den Aromen des Aufstriches optimal an.",
+      "instruction": "Oliven entkernen (am besten mit einem Kirschenentkerner). Paradeiaer und\n    Oliven im Kutter fein mixen. Ricotta verrühren, mit Paradeisern, Oliven und\n    Oregano vermischen. Aufstrich mit Salz und Pfeffer abschmecken. - Ciabatta\n    halbieren und in Stücke schneiden. Ricotta darauf streichen.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "schmeckt besonders gut m. Olio Carli Produkten"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Ricotta mit Paradeisern",
+      "categoryId": 22
+    },
+    {
+      "id": 120,
+      "ingredients": "je {1} rote u. grüne Paprika\n    {1} Kopf Salat\n    {1} kleine Zwiebel\n    {150} g Emmentaler\n    {10} grüne Oliven\n    {3} EL kaltgepr. Olivenöl\n    {3} EL Apfelsaft Kräutersalz Kräuteressig\n    {2} EL frische Kräuter d. Saison",
+      "additional-ingredients": "",
+      "info": "von Ernährungslehrerin Frau Baldauf VS St.Veit",
+      "beverage": "keine",
+      "instruction": "Paprika und Käse in dünne Scheiben schneiden, Zwiebel in feine Ringe. Salat\n    zerpflücken, Oliven halbieren. - Aus den Soßenzutaten eine Marinade rühren,\n    den Blattsalat mit der Hälfte marinieren, auf Tellern anrichten. - Käse,\n    Oliven, Zwiebel und Paprika mit der restlichen Soße mischen, auf dem\n    Blattsalat anrichten.",
+      "comment": [
+        {
+          "type": "positive",
+          "text": "gesundes Jausenrezept f. Kleine und Große"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Paprika-Käsesalat",
+      "categoryId": 23
+    },
+    {
+      "id": 121,
+      "ingredients": "{220} g Thunfisch Carli\n    {1} Glas geröstete Paprikaschoten Carli Natives Olivenöl Extra Carli\n    Delicato\n    {1} EL Balsamicocreme Carli",
+      "additional-ingredients": "Pfeffer, Gemischte Kräuter",
+      "info": "Für {4} Personen, Zubereitunsdauer: {5} Minuten",
+      "beverage": "keine",
+      "instruction": "Die Paprikaschoten aus dem Glas nehmen, dabei aufpassen, dass sie nicht\n    aufreißen und sie abtropfen lassen. In etwa {2} cm breite Streifen schneiden\n    und mit der Balsamicocreme anrichten. Den Thunfisch abtropfen lassen und zu\n    den Paprikaschotenstreifen geben. Die Zutaten locker mischen. Mit den\n    Kräutern und Pfeffer abschmecken und mit Olivenöl würzen.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Paprikaschoten süß-sauer mit Thunfisch",
+      "categoryId": 24
+    },
+    {
+      "id": 122,
+      "ingredients": "{150} g Mehl\n{90} g gemahlene Mandeln\n{1} TL Backpulver\n{350} g Aprikosen\n{2} Eier\n{100} g Joghurt\n{100} g Zucker\n{75} ml Öl\n{150} g Sahne\n{1} Ei\n{1} Pkg. Vanillezucker\nFett für die Form",
+      "additional-ingredients": "",
+      "info": "Für {12} Stück",
+      "beverage": "keine",
+      "instruction": "Ofen auf {180}°C (Umluft {160}°) vorheizen. Blech einfetten, kalt stellen. Mehl, {50} g Mandeln, Backpulver vermischen. Aprikosen waschen, halbieren, {12} Hälften beiseite legen, Rest würfeln, unterheben.\n-\nEier, Joghurt, Zucker und Öl verquirlen. Mehlmischung unterrühren. Teig in die Vertiefungen füllen. Sahne, Ei, Vanillezucker, Rest Mandeln verquirlen. Auf die Muffins geben, je {1} Aprikosenhälfte draufsetzen. Im Ofen (Mitte) {25} Min. backen.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning",
+          "text": "wenige Kalorien; Rezept mit etwas mehr Arbeit"
+        }
+      ],
+      "name": "Aprikosen-Muffins",
+      "categoryId": 21
+    },
+    {
+      "id": 123,
+      "ingredients": "{10} Scheiben HawaiiAnanaas (1 kl. Dose)\n    {1} Ei\n    {125} g glattes Mehl\n    {200} ml Milch\n    {1} Pkg. Vanillezucker Schale von {1 / 2} Zitrone",
+      "additional-ingredients": "Salz, Staubzucker, Öl zum Backen, Minze",
+      "info": "{2} Portionen, Zubereitung ca. {20} Minuten",
+      "beverage": "keine",
+      "instruction": "Ei in Dotter und Klar trennen, Mehl, Milch, Dotter, Vanillezucker,\n    abgeriebene Zitronenschale und eine kleine Prise Salz zu einem glatten Teig\n    rühren. Eiklar zu cremigem Schnee schlagen und behutsam unterheben. Teig ca.{\" \"}\n    {10} Minuten rasten lassen. - Ananasschreiben in einem Sieb abtropfen\n    lassen, mit Küchenpapier trocken tupfen. {2} von den Ananasschreiben für die\n    Sauce (siehe Rezept) in möglichst kleine Würfel schneiden. - Ca. {3} Finger\n    hoch Öl erhitzen. Ananas in den Backteig tauchen, kurz abtropfen lassen und\n    schwimmend goldgelb backen. - Ananasscheiben mit einem Siebschöpfer\n    herausheben, auf Küchenpapier gut abtropfen lassen. Ananasscheiben mit der\n    Sauce (siehe Rezept) anrichten, mit Staubzucker bestreuen und eventuell mit\n    Minzeblättern garnieren.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Gebackene Ananasscheiben",
+      "categoryId": 21
+    },
+    {
+      "id": 124,
+      "ingredients": "{250} ml Milch\n    {10} g Vanille-Puddingpulver\n    {1} Pkg. Vanillezucker\n    {10} g geröstetes Kokosette\n    {2} klein würfelig geschnittene Ananasschreiben (siehe Haupt-Rezept)\n    {2} EL Kokoslikör",
+      "additional-ingredients": "",
+      "info": "{2} Portionen, Zubereitung ca. {15} Minuten",
+      "beverage": "keine",
+      "instruction": "Ca. {50} ml von der Milch mit Puddingpulver und Vanillezucker glatt rühren.\n    - Übrige Milch aufkochen, Puddingmischung einrühren, die Sauce unter\n    ständigen Rühren ca. {1} Minuten köcheln, vom Herd nehmen und mit Kokosette,\n    Ananaswürfeln und Kokoslikör vermischen.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Kokos-Ananas-Sauce",
+      "categoryId": 12
+    },
+    {
+      "id": 125,
+      "ingredients": "{4} dünne Truthahnschnitzel\n    {1} EL Mehl\n    {2} EL Natives Olivenöl Extra von Carli\n    {5} EL Walnusssauce von Carli\n    {2} EL Creme fraiche",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "Für {4} Personen",
+      "beverage": "keine",
+      "instruction": "Die Schnitzel in Mehl wenden und im Olivenöl in einer Pfanne rundum golden\n    braten. Leicht pfeffern und salzen. Die Walnusssauce und die Creme fraiche\n    mischen und über das Fleisch gießen. Noch {3} oder {4} EL Wasser hinzufügen\n    und alles bei schwacher Hitze {3} Min. schmoren. Sofort servieren, z.B mit\n    einem Kartoffelpüree, abgeschmeckt mit Olivenöl.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Truthahnschnitzel mit Walnusssauce",
+      "categoryId": 5
+    },
+    {
+      "id": 126,
+      "ingredients": "{2} Stk Lorbeerblätter\n    {8} Stück Pfefferkörner\n    {1} Prise Salz\n    {1} Bund Suppengrün\n    {2} Kilogramm Tafelspitz\n    {2} Stück Wachholderbeeren\n    {4} l Wasser\n    {1} Stk. Zwiebel\n    {1} l Fleischbrühe\n    {1} Prise Salz\n    {2} Esslöfel Sauerrahm\n    {500} Gramm Semmelwürfel",
+      "additional-ingredients": "",
+      "info": "Zutaten für {4} Portionen",
+      "beverage": "keine",
+      "instruction": "In einem Topf {1 / 2} Zwiebel auf Alufolie dunkel rösten. - Das Öl in einem\n    sehr großen Topf heiß werden lassen. Gewaschene und geputzte Gemüse und die\n    halbierte Zwiebel darin anbraten. Mit {4} l Wasser aufgießen und das Fleisch\n    von Sehnen und Häuten befreit (Fetteindeckung aber belassen) vorsichtig ini\n    den Topf geben. - Lorbeerblättern, Pfefferkörner und Wacholderbeeren zugeben\n    und mind. {21 / 2} Stunden bei schwacher Hitze köcheln lassen. Den Schaum\n    der sich dabei bildet mehrmals abschöpfen. - Solange kochen bis das Fleisch\n    schön weich ist. Fleisch herausheben, Suppe abseihen und das Fleisch iin der\n    Suppe noch etwas rasten lassen. - Währendessen den Semmelkren zubereiten.\n    Dabei wird eine weite Pfanne mit Semmelwürfel gefüllt, heiß werden lassen\n    und mit der abgeseihten Suppenbrühe nach und nach übergießen. Dabei ständig\n    rühren. - Frisch geriebenen Kren und Sauerrahm zufügen und mit Salz\n    abschmecken. - Tapfelspitz in Scheiben schneiden, auf vorgwärmten Tellern\n    anrichten, etwas Suppe angießen und mit Semmelkren servieren.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Tafelspitz",
+      "categoryId": 1
+    },
+    {
+      "id": 127,
+      "ingredients": "{500} g Faschiertes(Rind)\n    {1} Stk. große Chilischote\n    {1} Dose Kidneybohnen\n    {3} Stk. Knoblauchzehen\n    {1} Dose Mais\n    {2} Stück Paprika (rot, gelb/orange)\n    {500} ml Rindsuppe\n    {1} Dose Tomaten, geschält\n    {1} EL Tomatenmark\n    {1} Stk. Zwiebel",
+      "additional-ingredients": "",
+      "info": "Kochdauer: 50 min.",
+      "beverage": "keine",
+      "instruction": "Zwiebel fein hacken, Paprika in kleine Würfel schneiden. Öl in einem Topf\n    erhitzen und Zwiebel darin anschwitzen. Fleisch hinzufügen und scharf\n    anbraten. - Danach Tomatenmark und Dosentomaten einrühren. Mit der Rindsuppe\n    aufgießen und alles ca. 20 Minuten köcheln lassen. Knoblauchzehen pressen\n    und mit Salz und Pfeffer abschmecken. - Bohnen, Paprika und den Mais\n    hinzufügen. Je nach gewünschter Schärfe Chiligewürz oder Chilischoten\n    beigeben und alles ca. 20 Minuten bei geringer Hitze ziehen lassen.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info"
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Chili con Carne",
+      "categoryId": 1
+    },
+    {
+      "id": 128,
+      "ingredients": "{400} g Penne Rigate von Fratelli Carli\n    {4} Scheiben geräucherter Lachs\n    {120} g Parmigiano Reggiano von Fratelli Carli, gerieben\n    {200} ml Creme Fraiche",
+      "additional-ingredients": "Salz, Pfeffer",
+      "info": "Für 4 Personen, Zeitaufwand: 20 Min. + 30 Min. kochen",
+      "beverage": "keine",
+      "instruction": "Die Nudeln in einem großen Volumen Salzwasser al dente kochen, abtropfen.\n    Den Lachs in Streifen schneiden. In einem Topf {3 / 4} des Parmesans in der\n    Creme Fraiche bei geringer Hitze schmelzen lassen. - Die Nudeln und den\n    Lachs daunterrühren, nach Geschmack pfeffern. Alles in eine Gratinform\n    geben, mit dem restlichen Parmesan bestreuen und einige Minuten im\n    vorgeheizten Ofen bei {200}° überbacken.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Parmesankäse betont das Aroma dieses raffinierten und rasch zubereiteten\n    Gratins."
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "name": "Nudelgratin mit Lachs und Parmesan",
+      "categoryId": 17
+    },
+    {
+      "id": 129,
+      "ingredients": "{3} Eier\n    {150} ml Natives Olivenöl Extra Delicato von Carliu\n    {125} g Naturjoghurt\n    {280} g Zucker\n    {250} g Mehl\n    {1} Päckchen Backpulver\n    {1} unbehandelte Zitrone",
+      "additional-ingredients": "",
+      "info": "Für {6} Personen; Zeitaufwand: {20} Min. + {30} Min.Backen",
+      "beverage": "keine",
+      "instruction": "Mit dem Rührgerät die Eigelbe in einer Schüssel mit {180} g Zucker zu einer\n    hellgelben Creme schlagen. Die Zitronenschale abreiben und zusammen mit dem\n    Joghurt uund dem Öl unterrühren.. - Mehl und Backpulver zugeben. Die Eiweiß\n    zu steifem Scnee schlagen und vorsichtig unter den Teig heben. In eine\n    geölte und bemehlte Backform füllen und {30} Minuten bei {180}° im\n    vorgeheizten Ofen backen. Aus {100} g Zucker, dem Zitronensaft und {250} ml\n    Wasser einen Sirup zubereiten und den Kuchen damit sogelich nach dem Backen\n    tränken.",
+      "comment": [
+        {
+          "type": "positive"
+        },
+        {
+          "type": "negative"
+        },
+        {
+          "type": "info",
+          "text": "Das Olivenöl trägt viel zur Lockerheit des Kuchens bei, und die Zitrone\n    sorgt für großartige Frische."
+        },
+        {
+          "type": "warning"
+        }
+      ],
+      "categoryId": 21,
+      "name": "Joghurtkuchen mit Zitrone"
+    },
+    {
+      "categoryId": 24,
+      "name": "Testrezept",
+      "comment": [],
+      "ingredients": "{10kg} Something\n{6kg] Äpfel",
+      "additional-ingredients": "Love",
+      "info": "Gut",
+      "beverage": "Bier",
+      "instruction": "Schritt {1}\n-\nGeht\n-\nGood",
+      "id": 130
     }
   ],
-  "comments" : [
+  "categories": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 1,
+      "name": "Rindfleisch"
+    },
+    {
+      "id": 2,
+      "name": "Schweinefleisch"
+    },
+    {
+      "id": 3,
+      "name": "Reis/Polenta"
+    },
+    {
+      "id": 4,
+      "name": "Kalbfleisch"
+    },
+    {
+      "id": 5,
+      "name": "Geflügel"
+    },
+    {
+      "id": 6,
+      "name": "Teigwaren"
+    },
+    {
+      "id": 7,
+      "name": "Hühnerfleisch"
+    },
+    {
+      "id": 8,
+      "name": "Eiergerichte"
+    },
+    {
+      "id": 9,
+      "name": "Spaghetti"
+    },
+    {
+      "id": 10,
+      "name": "Beilagen"
+    },
+    {
+      "id": 11,
+      "name": "Fisch"
+    },
+    {
+      "id": 12,
+      "name": "Saucen"
+    },
+    {
+      "id": 13,
+      "name": "Eintopf"
+    },
+    {
+      "id": 14,
+      "name": "Wild"
+    },
+    {
+      "id": 15,
+      "name": "Pilze"
+    },
+    {
+      "id": 16,
+      "name": "Meeresfrüchte"
+    },
+    {
+      "id": 17,
+      "name": "Nudelgerichte"
+    },
+    {
+      "id": 18,
+      "name": "Steak"
+    },
+    {
+      "id": 19,
+      "name": "Weight Watchers"
+    },
+    {
+      "id": 20,
+      "name": "Milkshake"
+    },
+    {
+      "id": 21,
+      "name": "Süßes"
+    },
+    {
+      "id": 22,
+      "name": "Aufstriche"
+    },
+    {
+      "id": 23,
+      "name": "Salate"
+    },
+    {
+      "id": 24,
+      "name": "Verschiedenes"
     }
   ]
 }
